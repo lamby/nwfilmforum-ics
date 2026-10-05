@@ -3,160 +3,152 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261005T234206Z
+LAST-MODIFIED:20261005T235501Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
-DTSTART:20261020T180000
-DTEND:20261020T211500
-DTSTAMP:20261020T180000Z
-UID:a-rimbaud-2026-10-20-18:00:00
-DESCRIPTION:Patrick Wang\, United States & Canada\, 2026\, 175 min\, in En
- glish and French with English subtitles\n\nThe improbable life of French p
- oet Arthur Rimbaud unfolds with all the shock and playfulness of his poetr
- y.\n\nEstimated start: 18:20\n\nhttps://nwfilmforum.org/films/a-rimbaud/
+DTSTART;TZID=America/Los_Angeles:20261020T180000
+DTEND;TZID=America/Los_Angeles:20261020T211500
+DTSTAMP:20261021T010000Z
+UID:a-rimbaud-2026-10-20-18:00:00-07:00
+DESCRIPTION:The improbable life of French poet Arthur Rimbaud unfolds with
+  all the shock and playfulness of his poetry.\n\nPatrick Wang\, United Sta
+ tes & Canada\, 2026\, 175 min\, in English and French with English subtitl
+ es\n\nhttps://nwfilmforum.org/films/a-rimbaud/\n\nEstimated start: 18:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261009T203000
-DTEND:20261009T224500
-DTSTAMP:20261009T203000Z
-UID:an-autumn-afternoon-2026-10-09-20:30:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 20:50\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261009T203000
+DTEND;TZID=America/Los_Angeles:20261009T224500
+DTSTAMP:20261010T033000Z
+UID:an-autumn-afternoon-2026-10-09-20:30:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 20:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261010T160000
-DTEND:20261010T181500
-DTSTAMP:20261010T160000Z
-UID:an-autumn-afternoon-2026-10-10-16:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 16:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261010T160000
+DTEND;TZID=America/Los_Angeles:20261010T181500
+DTSTAMP:20261010T230000Z
+UID:an-autumn-afternoon-2026-10-10-16:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261010T190000
-DTEND:20261010T211500
-DTSTAMP:20261010T190000Z
-UID:an-autumn-afternoon-2026-10-10-19:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261010T190000
+DTEND;TZID=America/Los_Angeles:20261010T211500
+DTSTAMP:20261011T020000Z
+UID:an-autumn-afternoon-2026-10-10-19:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261011T160000
-DTEND:20261011T181500
-DTSTAMP:20261011T160000Z
-UID:an-autumn-afternoon-2026-10-11-16:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 16:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261011T160000
+DTEND;TZID=America/Los_Angeles:20261011T181500
+DTSTAMP:20261011T230000Z
+UID:an-autumn-afternoon-2026-10-11-16:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261011T190000
-DTEND:20261011T211500
-DTSTAMP:20261011T190000Z
-UID:an-autumn-afternoon-2026-10-11-19:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261011T190000
+DTEND;TZID=America/Los_Angeles:20261011T211500
+DTSTAMP:20261012T020000Z
+UID:an-autumn-afternoon-2026-10-11-19:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261012T190000
-DTEND:20261012T211500
-DTSTAMP:20261012T190000Z
-UID:an-autumn-afternoon-2026-10-12-19:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261012T190000
+DTEND;TZID=America/Los_Angeles:20261012T211500
+DTSTAMP:20261013T020000Z
+UID:an-autumn-afternoon-2026-10-12-19:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:An Autumn Afternoon (1962)
-DTSTART:20261013T190000
-DTEND:20261013T211500
-DTSTAMP:20261013T190000Z
-UID:an-autumn-afternoon-2026-10-13-19:00:00
-DESCRIPTION:Yasujirō Ozu\, 1962\, Japan\, 113 min\, in Japanese with Engl
- ish subtitles\n\nThe last film by Yasujiro Ozu was also his final masterpi
- ece\, a gently heartbreaking story about a man’s dignified resignation t
- o life’s shifting currents and society’s modernization. Though the wid
- ower Shuhei (frequent Ozu leading man Chishu Ryu) has been living comforta
- bly for years with his grown daughter\, a series of events leads him to ac
- cept and encourage her marriage and departure from their home. As elegantl
- y composed and achingly tender as any of the Japanese master’s films\, A
- n Autumn Afternoon is one of cinema’s fondest farewells.\n\nSynopsis cou
- rtesy of Janus Films\n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/
- films/an-autumn-afternoon/
+DTSTART;TZID=America/Los_Angeles:20261013T190000
+DTEND;TZID=America/Los_Angeles:20261013T211500
+DTSTAMP:20261014T020000Z
+UID:an-autumn-afternoon-2026-10-13-19:00:00-07:00
+DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
+  a gently heartbreaking story about a man’s dignified resignation to lif
+ e’s shifting currents and society’s modernization. Though the widower 
+ Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
+ or years with his grown daughter\, a series of events leads him to accept 
+ and encourage her marriage and departure from their home. As elegantly com
+ posed and achingly tender as any of the Japanese master’s films\, An Aut
+ umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
+ 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261023T170000
-DTEND:20261023T183500
-DTSTAMP:20261023T170000Z
-UID:begotten-4k-restoration-2026-10-23-17:00:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261023T170000
+DTEND;TZID=America/Los_Angeles:20261023T183500
+DTSTAMP:20261024T000000Z
+UID:begotten-4k-restoration-2026-10-23-17:00:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -165,19 +157,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 17:20\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261024T150000
-DTEND:20261024T163500
-DTSTAMP:20261024T150000Z
-UID:begotten-4k-restoration-2026-10-24-15:00:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261024T150000
+DTEND;TZID=America/Los_Angeles:20261024T163500
+DTSTAMP:20261024T220000Z
+UID:begotten-4k-restoration-2026-10-24-15:00:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -186,19 +177,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 15:20\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 15:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261024T170000
-DTEND:20261024T183500
-DTSTAMP:20261024T170000Z
-UID:begotten-4k-restoration-2026-10-24-17:00:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261024T170000
+DTEND;TZID=America/Los_Angeles:20261024T183500
+DTSTAMP:20261025T000000Z
+UID:begotten-4k-restoration-2026-10-24-17:00:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -207,19 +197,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 17:20\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261025T153000
-DTEND:20261025T170500
-DTSTAMP:20261025T153000Z
-UID:begotten-4k-restoration-2026-10-25-15:30:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261025T153000
+DTEND;TZID=America/Los_Angeles:20261025T170500
+DTSTAMP:20261025T223000Z
+UID:begotten-4k-restoration-2026-10-25-15:30:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -228,19 +217,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 15:50\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 15:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261025T173000
-DTEND:20261025T190500
-DTSTAMP:20261025T173000Z
-UID:begotten-4k-restoration-2026-10-25-17:30:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261025T173000
+DTEND;TZID=America/Los_Angeles:20261025T190500
+DTSTAMP:20261026T003000Z
+UID:begotten-4k-restoration-2026-10-25-17:30:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -249,19 +237,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 17:50\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261025T193000
-DTEND:20261025T210500
-DTSTAMP:20261025T193000Z
-UID:begotten-4k-restoration-2026-10-25-19:30:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261025T193000
+DTEND;TZID=America/Los_Angeles:20261025T210500
+DTSTAMP:20261026T023000Z
+UID:begotten-4k-restoration-2026-10-25-19:30:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -270,19 +257,18 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 19:50\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
-DTSTART:20261026T190000
-DTEND:20261026T203500
-DTSTAMP:20261026T190000Z
-UID:begotten-4k-restoration-2026-10-26-19:00:00
-DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
- ertitles\n\n“Begotten” has no characters in the ordinary sense. Its fi
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T203500
+DTSTAMP:20261027T020000Z
+UID:begotten-4k-restoration-2026-10-26-19:00:00-07:00
+DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
  nal credits name three principal figures:\n\nGod Killing Himself. Mother E
  arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
  s do to each other and to the earth. God Killing Himself tears open his bo
@@ -291,656 +277,653 @@ DESCRIPTION:E. Elias Merhige\, United States\, 1989\, 72 min\, English int
  o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
  returned to life by his mother. The Nomads destroy her too. The Robed Figu
  res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nSynopsis courtesy of Kino 
- Lorber\n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/films/begotten
- -4k-restoration/
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronovisor
-DTSTART:20261005T193000
-DTEND:20261005T213000
-DTSTAMP:20261005T193000Z
-UID:chronovisor-2026-10-05-19:30:00
-DESCRIPTION:Jack Auen\, Kevin Walker\, United States\, 2026\, 100 min\, in
-  English\, German\, Italian\, and French with English subtitles\n\nWhile w
- riting a monograph on historical theories of memory\, Béatrice (Anne-Laur
- e Sellier)\, a respected academic\, becomes beguiled by the allegedly true
-  story of the Chronovisor\, an occult device said to reproduce visuals fro
- m any point in history on a TV screen. Her obsession with the mysterious m
- achine drags her from her Upper East Side apartment through the depths of 
- New York City’s hidden libraries\, to the edge of a breakthrough.\n\n“
- Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Jane Schoenbrun (dire
- ctor\, Teenage Sex and Death at Camp Miasma)\n\nSynopsis courtesy of Grass
- hopper Film\n\nEstimated start: 19:50\n\nhttps://nwfilmforum.org/films/chr
- onovisor/
+DTSTART;TZID=America/Los_Angeles:20261005T193000
+DTEND;TZID=America/Los_Angeles:20261005T213000
+DTSTAMP:20261006T023000Z
+UID:chronovisor-2026-10-05-19:30:00-07:00
+DESCRIPTION:While writing a monograph on historical theories of memory\, B
+ éatrice (Anne-Laure Sellier)\, a respected academic\, becomes beguiled by
+  the allegedly true story of the Chronovisor\, an occult device said to re
+ produce visuals from any point in history on a TV screen. Her obsession wi
+ th the mysterious machine drags her from her Upper East Side apartment thr
+ ough the depths of New York City’s hidden libraries\, to the edge of a b
+ reakthrough.\n\n“Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Ja
+ ne Schoenbrun (director\, Teenage Sex and Death at Camp Miasma)\n\nJack Au
+ en\, Kevin Walker\, United States\, 2026\, 100 min\, in English\, German\,
+  Italian\, and French with English subtitles\n\nhttps://nwfilmforum.org/fi
+ lms/chronovisor/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronovisor
-DTSTART:20261006T193000
-DTEND:20261006T213000
-DTSTAMP:20261006T193000Z
-UID:chronovisor-2026-10-06-19:30:00
-DESCRIPTION:Jack Auen\, Kevin Walker\, United States\, 2026\, 100 min\, in
-  English\, German\, Italian\, and French with English subtitles\n\nWhile w
- riting a monograph on historical theories of memory\, Béatrice (Anne-Laur
- e Sellier)\, a respected academic\, becomes beguiled by the allegedly true
-  story of the Chronovisor\, an occult device said to reproduce visuals fro
- m any point in history on a TV screen. Her obsession with the mysterious m
- achine drags her from her Upper East Side apartment through the depths of 
- New York City’s hidden libraries\, to the edge of a breakthrough.\n\n“
- Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Jane Schoenbrun (dire
- ctor\, Teenage Sex and Death at Camp Miasma)\n\nSynopsis courtesy of Grass
- hopper Film\n\nEstimated start: 19:50\n\nhttps://nwfilmforum.org/films/chr
- onovisor/
+DTSTART;TZID=America/Los_Angeles:20261006T193000
+DTEND;TZID=America/Los_Angeles:20261006T213000
+DTSTAMP:20261007T023000Z
+UID:chronovisor-2026-10-06-19:30:00-07:00
+DESCRIPTION:While writing a monograph on historical theories of memory\, B
+ éatrice (Anne-Laure Sellier)\, a respected academic\, becomes beguiled by
+  the allegedly true story of the Chronovisor\, an occult device said to re
+ produce visuals from any point in history on a TV screen. Her obsession wi
+ th the mysterious machine drags her from her Upper East Side apartment thr
+ ough the depths of New York City’s hidden libraries\, to the edge of a b
+ reakthrough.\n\n“Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Ja
+ ne Schoenbrun (director\, Teenage Sex and Death at Camp Miasma)\n\nJack Au
+ en\, Kevin Walker\, United States\, 2026\, 100 min\, in English\, German\,
+  Italian\, and French with English subtitles\n\nhttps://nwfilmforum.org/fi
+ lms/chronovisor/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earshot Jazz Presents: The Case of The Three Sided Dream (2014)
-DTSTART:20261021T193000
-DTEND:20261021T212000
-DTSTAMP:20261021T193000Z
-UID:the-case-of-the-three-sided-dream-2026-10-21-19:30:00
-DESCRIPTION:Adam Kahan\, United States\, 2014\, 88 min\, in English\n\nThe
-  documentary film on the life and legacy of Rahsaan Roland Kirk – a one 
- of a kind musician\, personality\, activist and windmill slayer who despit
- e being blind\, becoming paralyzed\, and facing America’s racial injusti
- ces – did not relent.\n\nCo-Presented with Earshot Jazz Festival!\n\nEst
- imated start: 19:50\n\nhttps://nwfilmforum.org/films/the-case-of-the-three
- -sided-dream/
+DTSTART;TZID=America/Los_Angeles:20261021T193000
+DTEND;TZID=America/Los_Angeles:20261021T212000
+DTSTAMP:20261022T023000Z
+UID:the-case-of-the-three-sided-dream-2026-10-21-19:30:00-07:00
+DESCRIPTION:The documentary film on the life and legacy of Rahsaan Roland 
+ Kirk – a one of a kind musician\, personality\, activist and windmill sl
+ ayer who despite being blind\, becoming paralyzed\, and facing America’s
+  racial injustices – did not relent.\n\nCo-Presented with Earshot Jazz F
+ estival!\n\nAdam Kahan\, United States\, 2014\, 88 min\, in English\n\nhtt
+ ps://nwfilmforum.org/films/the-case-of-the-three-sided-dream/\n\nEstimated
+  start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earshot Jazz Presents: The Case of The Three Sided Dream (2014)
-DTSTART:20261022T193000
-DTEND:20261022T212000
-DTSTAMP:20261022T193000Z
-UID:the-case-of-the-three-sided-dream-2026-10-22-19:30:00
-DESCRIPTION:Adam Kahan\, United States\, 2014\, 88 min\, in English\n\nThe
-  documentary film on the life and legacy of Rahsaan Roland Kirk – a one 
- of a kind musician\, personality\, activist and windmill slayer who despit
- e being blind\, becoming paralyzed\, and facing America’s racial injusti
- ces – did not relent.\n\nCo-Presented with Earshot Jazz Festival!\n\nEst
- imated start: 19:50\n\nhttps://nwfilmforum.org/films/the-case-of-the-three
- -sided-dream/
+DTSTART;TZID=America/Los_Angeles:20261022T193000
+DTEND;TZID=America/Los_Angeles:20261022T212000
+DTSTAMP:20261023T023000Z
+UID:the-case-of-the-three-sided-dream-2026-10-22-19:30:00-07:00
+DESCRIPTION:The documentary film on the life and legacy of Rahsaan Roland 
+ Kirk – a one of a kind musician\, personality\, activist and windmill sl
+ ayer who despite being blind\, becoming paralyzed\, and facing America’s
+  racial injustices – did not relent.\n\nCo-Presented with Earshot Jazz F
+ estival!\n\nAdam Kahan\, United States\, 2014\, 88 min\, in English\n\nhtt
+ ps://nwfilmforum.org/films/the-case-of-the-three-sided-dream/\n\nEstimated
+  start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Upon a Time In Seattle
-DTSTART:20261101T160000
-DTEND:20261101T180500
-DTSTAMP:20261101T160000Z
-UID:once-upon-time-seattle-2026-11-01-16:00:00
-DESCRIPTION:Collide-O-Scope\, 2026\, United States\, 101 min\, in English
- \n\nSPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEMBER 2026
-  EDITION! \n\nComprised of moments from over 40 films shot in Seattle\, an
- d a few irresistible facsimiles\, Once Upon a Time in Seattle is part love
-  letter\, part loony action adventure\, and part free-associative meditati
- on on the transience of landscape in a city that has always had a complica
- ted relationship with honoring its past while moving swiftly (recklessly?)
-  into the future.\n\nThere is no linear narrative\, and dialogue is kept t
- o a minimum. The city itself is both location and protagonist\, while the 
- function of the human characters\, or perhaps more accurately\, ciphers\, 
- is that of a vessel to move us through the city and occasionally offer loo
- se context or comic relief. With one exception\, no single existing shot o
- r sequence is sustained longer than a minute\, with most individual shots 
- lasting less than 20 seconds\, and over half clocking in at 5 seconds or l
- ess. The result is a deceptively complex amalgamation of wholly unrelated 
- material\, and an impressively unique editorial/directorial achievement.\n
- \nSurprisingly weaving numerous throughlines from the many disparate exist
- ing narratives\, while leaving much open to the viewer’s interpretation
- \, scene chronology floats between seemingly non sequitur\, to surprisingl
- y\, quietly poignant\, depending on the viewer’s own history with the ci
- ty. A hyper-local\, one-of-a-kind film experience and an opportunity to ex
- amine Seattle’s ever-changing landscape as seen through the camera lens
- \, Once Upon a Time in Seattle offers a unique portal to examine our city
- ’s topography (and vibe!) of the past\, both near and distant.\n\nEstima
- ted start: 16:20\n\nhttps://nwfilmforum.org/films/once-upon-time-seattle/
+DTSTART;TZID=America/Los_Angeles:20261101T160000
+DTEND;TZID=America/Los_Angeles:20261101T180500
+DTSTAMP:20261102T000000Z
+UID:once-upon-time-seattle-2026-11-01-16:00:00-08:00
+DESCRIPTION:SPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEM
+ BER 2026 EDITION! \n\nComprised of moments from over 40 films shot in Seat
+ tle\, and a few irresistible facsimiles\, Once Upon a Time in Seattle is p
+ art love letter\, part loony action adventure\, and part free-associative 
+ meditation on the transience of landscape in a city that has always had a 
+ complicated relationship with honoring its past while moving swiftly (reck
+ lessly?) into the future.\n\nThere is no linear narrative\, and dialogue i
+ s kept to a minimum. The city itself is both location and protagonist\, wh
+ ile the function of the human characters\, or perhaps more accurately\, ci
+ phers\, is that of a vessel to move us through the city and occasionally o
+ ffer loose context or comic relief. With one exception\, no single existin
+ g shot or sequence is sustained longer than a minute\, with most individua
+ l shots lasting less than 20 seconds\, and over half clocking in at 5 seco
+ nds or less. The result is a deceptively complex amalgamation of wholly un
+ related material\, and an impressively unique editorial/directorial achiev
+ ement.\n\nSurprisingly weaving numerous throughlines from the many dispara
+ te existing narratives\, while leaving much open to the viewer’s interpr
+ etation\, scene chronology floats between seemingly non sequitur\, to surp
+ risingly\, quietly poignant\, depending on the viewer’s own history with
+  the city. A hyper-local\, one-of-a-kind film experience and an opportunit
+ y to examine Seattle’s ever-changing landscape as seen through the camer
+ a lens\, Once Upon a Time in Seattle offers a unique portal to examine our
+  city’s topography (and vibe!) of the past\, both near and distant.\n\nC
+ ollide-O-Scope\, 2026\, United States\, 101 min\, in English\n\nhttps://nw
+ filmforum.org/films/once-upon-time-seattle/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Once Upon a Time In Seattle
-DTSTART:20261101T190000
-DTEND:20261101T210500
-DTSTAMP:20261101T190000Z
-UID:once-upon-time-seattle-2026-11-01-19:00:00
-DESCRIPTION:Collide-O-Scope\, 2026\, United States\, 101 min\, in English
- \n\nSPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEMBER 2026
-  EDITION! \n\nComprised of moments from over 40 films shot in Seattle\, an
- d a few irresistible facsimiles\, Once Upon a Time in Seattle is part love
-  letter\, part loony action adventure\, and part free-associative meditati
- on on the transience of landscape in a city that has always had a complica
- ted relationship with honoring its past while moving swiftly (recklessly?)
-  into the future.\n\nThere is no linear narrative\, and dialogue is kept t
- o a minimum. The city itself is both location and protagonist\, while the 
- function of the human characters\, or perhaps more accurately\, ciphers\, 
- is that of a vessel to move us through the city and occasionally offer loo
- se context or comic relief. With one exception\, no single existing shot o
- r sequence is sustained longer than a minute\, with most individual shots 
- lasting less than 20 seconds\, and over half clocking in at 5 seconds or l
- ess. The result is a deceptively complex amalgamation of wholly unrelated 
- material\, and an impressively unique editorial/directorial achievement.\n
- \nSurprisingly weaving numerous throughlines from the many disparate exist
- ing narratives\, while leaving much open to the viewer’s interpretation
- \, scene chronology floats between seemingly non sequitur\, to surprisingl
- y\, quietly poignant\, depending on the viewer’s own history with the ci
- ty. A hyper-local\, one-of-a-kind film experience and an opportunity to ex
- amine Seattle’s ever-changing landscape as seen through the camera lens
- \, Once Upon a Time in Seattle offers a unique portal to examine our city
- ’s topography (and vibe!) of the past\, both near and distant.\n\nEstima
- ted start: 19:20\n\nhttps://nwfilmforum.org/films/once-upon-time-seattle/
+DTSTART;TZID=America/Los_Angeles:20261101T190000
+DTEND;TZID=America/Los_Angeles:20261101T210500
+DTSTAMP:20261102T030000Z
+UID:once-upon-time-seattle-2026-11-01-19:00:00-08:00
+DESCRIPTION:SPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEM
+ BER 2026 EDITION! \n\nComprised of moments from over 40 films shot in Seat
+ tle\, and a few irresistible facsimiles\, Once Upon a Time in Seattle is p
+ art love letter\, part loony action adventure\, and part free-associative 
+ meditation on the transience of landscape in a city that has always had a 
+ complicated relationship with honoring its past while moving swiftly (reck
+ lessly?) into the future.\n\nThere is no linear narrative\, and dialogue i
+ s kept to a minimum. The city itself is both location and protagonist\, wh
+ ile the function of the human characters\, or perhaps more accurately\, ci
+ phers\, is that of a vessel to move us through the city and occasionally o
+ ffer loose context or comic relief. With one exception\, no single existin
+ g shot or sequence is sustained longer than a minute\, with most individua
+ l shots lasting less than 20 seconds\, and over half clocking in at 5 seco
+ nds or less. The result is a deceptively complex amalgamation of wholly un
+ related material\, and an impressively unique editorial/directorial achiev
+ ement.\n\nSurprisingly weaving numerous throughlines from the many dispara
+ te existing narratives\, while leaving much open to the viewer’s interpr
+ etation\, scene chronology floats between seemingly non sequitur\, to surp
+ risingly\, quietly poignant\, depending on the viewer’s own history with
+  the city. A hyper-local\, one-of-a-kind film experience and an opportunit
+ y to examine Seattle’s ever-changing landscape as seen through the camer
+ a lens\, Once Upon a Time in Seattle offers a unique portal to examine our
+  city’s topography (and vibe!) of the past\, both near and distant.\n\nC
+ ollide-O-Scope\, 2026\, United States\, 101 min\, in English\n\nhttps://nw
+ filmforum.org/films/once-upon-time-seattle/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SFCS at 10: Green Room (2016)
-DTSTART:20261014T190000
-DTEND:20261014T205500
-DTSTAMP:20261014T190000Z
-UID:sfcs-10-green-room-2026-10-14-19:00:00
-DESCRIPTION:Jeremy Saulnier\, 2016\, United States\, 95 min\, in English\n
- \nSpecial Introduction by Matt Oakes of Silver Screen Riot\n\nGreen Room i
- s a brilliantly crafted and wickedly fun horror-thriller starring Patrick 
- Stewart as a diabolical club owner who squares off against an unsuspecting
-  but resilient young punk band.\n\nDown on their luck punk rockers The Ain
- ’t Rights are finishing up a long and unsuccessful tour\, and are about 
- to call it quits when they get an unexpected booking at an isolated\, run-
- down club deep in the backwoods of Oregon. What seems merely to be a third
- -rate gig escalates into something much more sinister when they witness an
-  act of violence backstage that they weren’t meant to see. Now trapped b
- ackstage\, they must face off against the club’s depraved owner\, Darcy 
- Banker (Stewart)\, a man who will do anything to protect the secrets of hi
- s nefarious enterprise. But while Darcy and his henchmen think the band wi
- ll be easy to get rid of\, The Ain’t Rights prove themselves much more c
- unning and capable than anyone expected\, turning the tables on their unsu
- specting captors and setting the stage for the ultimate life-or-death show
- down.\n\nSynopsis courtesy of A24\n\nEstimated start: 19:20\n\nhttps://nwf
- ilmforum.org/films/sfcs-10-green-room/
+DTSTART;TZID=America/Los_Angeles:20261014T190000
+DTEND;TZID=America/Los_Angeles:20261014T205500
+DTSTAMP:20261015T020000Z
+UID:sfcs-10-green-room-2026-10-14-19:00:00-07:00
+DESCRIPTION:Special Introduction by Matt Oakes of Silver Screen Riot\n\nGr
+ een Room is a brilliantly crafted and wickedly fun horror-thriller starrin
+ g Patrick Stewart as a diabolical club owner who squares off against an un
+ suspecting but resilient young punk band.\n\nDown on their luck punk rocke
+ rs The Ain’t Rights are finishing up a long and unsuccessful tour\, and 
+ are about to call it quits when they get an unexpected booking at an isola
+ ted\, run-down club deep in the backwoods of Oregon. What seems merely to 
+ be a third-rate gig escalates into something much more sinister when they 
+ witness an act of violence backstage that they weren’t meant to see. Now
+  trapped backstage\, they must face off against the club’s depraved owne
+ r\, Darcy Banker (Stewart)\, a man who will do anything to protect the sec
+ rets of his nefarious enterprise. But while Darcy and his henchmen think t
+ he band will be easy to get rid of\, The Ain’t Rights prove themselves m
+ uch more cunning and capable than anyone expected\, turning the tables on 
+ their unsuspecting captors and setting the stage for the ultimate life-or-
+ death showdown.\n\nJeremy Saulnier\, 2016\, United States\, 95 min\, in En
+ glish\n\nhttps://nwfilmforum.org/films/sfcs-10-green-room/\n\nEstimated st
+ art: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay (1984)
-DTSTART:20261010T163000
-DTEND:20261010T182500
-DTSTAMP:20261010T163000Z
-UID:screamplay-4k-restoration-2026-10-10-16:30:00
-DESCRIPTION:Rufus Butler Seder\, United States\, 1984\, 93 min\, in Englis
- h\n\n“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar All
- an (Rufus B. Seder) is an aspiring screenwriter who has just come to Holly
- wood to make it in the movies… only to wind up working as the janitor at
-  a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuc
- har) instead. When Edgar begins channeling his frustrations with his kooky
-  neighbors into fodder for his latest screenplay\, the vivid murder scenes
-  he writes begin to happen for real. As the bodies begin to pile up and th
- e line between reality and fiction become increasingly blurred\, Edgar\, w
- ho is convinced that the only way to be a real writer is to suffer\, is sl
- owly driven mad.\n\nInventively produced using a host of early cinematic t
- echniques and featuring a memorable performance by underground film legend
-  George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly charmin
- g tribute to Old Hollywood and a marvel of low-budget but high-concept fil
- mmaking. New 4K restoration by Muscle Distribution in association with Mat
- chbox Cine.\n\nSynopsis courtesy of Muscle Distribution\n\nEstimated start
- : 16:50\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+DTSTART;TZID=America/Los_Angeles:20261010T163000
+DTEND;TZID=America/Los_Angeles:20261010T182500
+DTSTAMP:20261010T233000Z
+UID:screamplay-4k-restoration-2026-10-10-16:30:00-07:00
+DESCRIPTION:“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEd
+ gar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come t
+ o Hollywood to make it in the movies… only to wind up working as the jan
+ itor at a fleabag apartment complex run by the greasy ex-boxer Martin (Geo
+ rge Kuchar) instead. When Edgar begins channeling his frustrations with hi
+ s kooky neighbors into fodder for his latest screenplay\, the vivid murder
+  scenes he writes begin to happen for real. As the bodies begin to pile up
+  and the line between reality and fiction become increasingly blurred\, Ed
+ gar\, who is convinced that the only way to be a real writer is to suffer
+ \, is slowly driven mad.\n\nInventively produced using a host of early cin
+ ematic techniques and featuring a memorable performance by underground fil
+ m legend George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly
+  charming tribute to Old Hollywood and a marvel of low-budget but high-con
+ cept filmmaking. New 4K restoration by Muscle Distribution in association 
+ with Matchbox Cine.\n\nRufus Butler Seder\, United States\, 1984\, 93 min
+ \, in English\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+ \n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay (1984)
-DTSTART:20261010T193000
-DTEND:20261010T212500
-DTSTAMP:20261010T193000Z
-UID:screamplay-4k-restoration-2026-10-10-19:30:00
-DESCRIPTION:Rufus Butler Seder\, United States\, 1984\, 93 min\, in Englis
- h\n\n“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar All
- an (Rufus B. Seder) is an aspiring screenwriter who has just come to Holly
- wood to make it in the movies… only to wind up working as the janitor at
-  a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuc
- har) instead. When Edgar begins channeling his frustrations with his kooky
-  neighbors into fodder for his latest screenplay\, the vivid murder scenes
-  he writes begin to happen for real. As the bodies begin to pile up and th
- e line between reality and fiction become increasingly blurred\, Edgar\, w
- ho is convinced that the only way to be a real writer is to suffer\, is sl
- owly driven mad.\n\nInventively produced using a host of early cinematic t
- echniques and featuring a memorable performance by underground film legend
-  George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly charmin
- g tribute to Old Hollywood and a marvel of low-budget but high-concept fil
- mmaking. New 4K restoration by Muscle Distribution in association with Mat
- chbox Cine.\n\nSynopsis courtesy of Muscle Distribution\n\nEstimated start
- : 19:50\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+DTSTART;TZID=America/Los_Angeles:20261010T193000
+DTEND;TZID=America/Los_Angeles:20261010T212500
+DTSTAMP:20261011T023000Z
+UID:screamplay-4k-restoration-2026-10-10-19:30:00-07:00
+DESCRIPTION:“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEd
+ gar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come t
+ o Hollywood to make it in the movies… only to wind up working as the jan
+ itor at a fleabag apartment complex run by the greasy ex-boxer Martin (Geo
+ rge Kuchar) instead. When Edgar begins channeling his frustrations with hi
+ s kooky neighbors into fodder for his latest screenplay\, the vivid murder
+  scenes he writes begin to happen for real. As the bodies begin to pile up
+  and the line between reality and fiction become increasingly blurred\, Ed
+ gar\, who is convinced that the only way to be a real writer is to suffer
+ \, is slowly driven mad.\n\nInventively produced using a host of early cin
+ ematic techniques and featuring a memorable performance by underground fil
+ m legend George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly
+  charming tribute to Old Hollywood and a marvel of low-budget but high-con
+ cept filmmaking. New 4K restoration by Muscle Distribution in association 
+ with Matchbox Cine.\n\nRufus Butler Seder\, United States\, 1984\, 93 min
+ \, in English\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+ \n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay (1984)
-DTSTART:20261011T163000
-DTEND:20261011T182500
-DTSTAMP:20261011T163000Z
-UID:screamplay-4k-restoration-2026-10-11-16:30:00
-DESCRIPTION:Rufus Butler Seder\, United States\, 1984\, 93 min\, in Englis
- h\n\n“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar All
- an (Rufus B. Seder) is an aspiring screenwriter who has just come to Holly
- wood to make it in the movies… only to wind up working as the janitor at
-  a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuc
- har) instead. When Edgar begins channeling his frustrations with his kooky
-  neighbors into fodder for his latest screenplay\, the vivid murder scenes
-  he writes begin to happen for real. As the bodies begin to pile up and th
- e line between reality and fiction become increasingly blurred\, Edgar\, w
- ho is convinced that the only way to be a real writer is to suffer\, is sl
- owly driven mad.\n\nInventively produced using a host of early cinematic t
- echniques and featuring a memorable performance by underground film legend
-  George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly charmin
- g tribute to Old Hollywood and a marvel of low-budget but high-concept fil
- mmaking. New 4K restoration by Muscle Distribution in association with Mat
- chbox Cine.\n\nSynopsis courtesy of Muscle Distribution\n\nEstimated start
- : 16:50\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+DTSTART;TZID=America/Los_Angeles:20261011T163000
+DTEND;TZID=America/Los_Angeles:20261011T182500
+DTSTAMP:20261011T233000Z
+UID:screamplay-4k-restoration-2026-10-11-16:30:00-07:00
+DESCRIPTION:“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEd
+ gar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come t
+ o Hollywood to make it in the movies… only to wind up working as the jan
+ itor at a fleabag apartment complex run by the greasy ex-boxer Martin (Geo
+ rge Kuchar) instead. When Edgar begins channeling his frustrations with hi
+ s kooky neighbors into fodder for his latest screenplay\, the vivid murder
+  scenes he writes begin to happen for real. As the bodies begin to pile up
+  and the line between reality and fiction become increasingly blurred\, Ed
+ gar\, who is convinced that the only way to be a real writer is to suffer
+ \, is slowly driven mad.\n\nInventively produced using a host of early cin
+ ematic techniques and featuring a memorable performance by underground fil
+ m legend George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly
+  charming tribute to Old Hollywood and a marvel of low-budget but high-con
+ cept filmmaking. New 4K restoration by Muscle Distribution in association 
+ with Matchbox Cine.\n\nRufus Butler Seder\, United States\, 1984\, 93 min
+ \, in English\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+ \n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay (1984)
-DTSTART:20261011T193000
-DTEND:20261011T212500
-DTSTAMP:20261011T193000Z
-UID:screamplay-4k-restoration-2026-10-11-19:30:00
-DESCRIPTION:Rufus Butler Seder\, United States\, 1984\, 93 min\, in Englis
- h\n\n“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEdgar All
- an (Rufus B. Seder) is an aspiring screenwriter who has just come to Holly
- wood to make it in the movies… only to wind up working as the janitor at
-  a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuc
- har) instead. When Edgar begins channeling his frustrations with his kooky
-  neighbors into fodder for his latest screenplay\, the vivid murder scenes
-  he writes begin to happen for real. As the bodies begin to pile up and th
- e line between reality and fiction become increasingly blurred\, Edgar\, w
- ho is convinced that the only way to be a real writer is to suffer\, is sl
- owly driven mad.\n\nInventively produced using a host of early cinematic t
- echniques and featuring a memorable performance by underground film legend
-  George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly charmin
- g tribute to Old Hollywood and a marvel of low-budget but high-concept fil
- mmaking. New 4K restoration by Muscle Distribution in association with Mat
- chbox Cine.\n\nSynopsis courtesy of Muscle Distribution\n\nEstimated start
- : 19:50\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+DTSTART;TZID=America/Los_Angeles:20261011T193000
+DTEND;TZID=America/Los_Angeles:20261011T212500
+DTSTAMP:20261012T023000Z
+UID:screamplay-4k-restoration-2026-10-11-19:30:00-07:00
+DESCRIPTION:“…takes HOLLYWOOD by the throat and STRANGLES it!”\n\nEd
+ gar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come t
+ o Hollywood to make it in the movies… only to wind up working as the jan
+ itor at a fleabag apartment complex run by the greasy ex-boxer Martin (Geo
+ rge Kuchar) instead. When Edgar begins channeling his frustrations with hi
+ s kooky neighbors into fodder for his latest screenplay\, the vivid murder
+  scenes he writes begin to happen for real. As the bodies begin to pile up
+  and the line between reality and fiction become increasingly blurred\, Ed
+ gar\, who is convinced that the only way to be a real writer is to suffer
+ \, is slowly driven mad.\n\nInventively produced using a host of early cin
+ ematic techniques and featuring a memorable performance by underground fil
+ m legend George Kuchar\, Rufus Butler Seder’s Screamplay is a singularly
+  charming tribute to Old Hollywood and a marvel of low-budget but high-con
+ cept filmmaking. New 4K restoration by Muscle Distribution in association 
+ with Matchbox Cine.\n\nRufus Butler Seder\, United States\, 1984\, 93 min
+ \, in English\n\nhttps://nwfilmforum.org/films/screamplay-4k-restoration/
+ \n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seattle Film Society In Focus: Tyler Michael James (2022)
-DTSTART:20261015T190000
-DTEND:20261015T212000
-DTSTAMP:20261015T190000Z
-UID:seattle-film-society-in-focus-tyler-michael-james-2026-10-15-19:00:00
-DESCRIPTION:The Seattle Film Society’s IN FOCUS showcase series returns 
- this October with a screening of Tyler Michael James’s 2022 thriller LOW
-  LIFE!\n\nLOW LIFE follows Benny\, a small-time YouTube star who catches p
- redators online\, experiences a night from hell when he lets one of them i
- nto his own home.\n\nLOW LIFE will be preceded by a screening of the film
- ’s proof-of-concept short\, and a conversation about James’s film & ca
- reer will follow the screening. This event is presented in partnership wit
- h the Northwest Film Forum.\n\nThursday October 15th at the Northwest Film
-  Forum. Doors at 6:30\, Film at 7. See you at the movies!\n\nEstimated sta
- rt: 19:20\n\nhttps://nwfilmforum.org/films/seattle-film-society-in-focus-t
- yler-michael-james/
+DTSTART;TZID=America/Los_Angeles:20261015T190000
+DTEND;TZID=America/Los_Angeles:20261015T212000
+DTSTAMP:20261016T020000Z
+UID:seattle-film-society-in-focus-tyler-michael-james-2026-10-15-19:00:00-
+ 07:00
+DESCRIPTION:LOW LIFE follows Benny\, a small-time YouTube star who catches
+  predators online\, experiences a night from hell when he lets one of them
+  into his own home.\n\nLOW LIFE will be preceded by a screening of the fil
+ m’s proof-of-concept short\, and a conversation about James’s film & c
+ areer will follow the screening. This event is presented in partnership wi
+ th the Northwest Film Forum.\n\nThursday October 15th at the Northwest Fil
+ m Forum. Doors at 6:30\, Film at 7. See you at the movies!\n\nThe Seattle 
+ Film Society’s IN FOCUS showcase series returns this October with a scre
+ ening of Tyler Michael James’s 2022 thriller LOW LIFE!\n\nhttps://nwfilm
+ forum.org/films/seattle-film-society-in-focus-tyler-michael-james/\n\nEsti
+ mated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261023T173000
-DTEND:20261023T192000
-DTSTAMP:20261023T173000Z
-UID:staff-selects-the-daytrippers-2026-10-23-17:30:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 17:50\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T192000
+DTSTAMP:20261024T003000Z
+UID:staff-selects-the-daytrippers-2026-10-23-17:30:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 17:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261024T153000
-DTEND:20261024T172000
-DTSTAMP:20261024T153000Z
-UID:staff-selects-the-daytrippers-2026-10-24-15:30:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 15:50\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261024T153000
+DTEND;TZID=America/Los_Angeles:20261024T172000
+DTSTAMP:20261024T223000Z
+UID:staff-selects-the-daytrippers-2026-10-24-15:30:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 15:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261024T173000
-DTEND:20261024T192000
-DTSTAMP:20261024T173000Z
-UID:staff-selects-the-daytrippers-2026-10-24-17:30:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 17:50\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T192000
+DTSTAMP:20261025T003000Z
+UID:staff-selects-the-daytrippers-2026-10-24-17:30:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 17:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261025T163000
-DTEND:20261025T182000
-DTSTAMP:20261025T163000Z
-UID:staff-selects-the-daytrippers-2026-10-25-16:30:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 16:50\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261025T163000
+DTEND;TZID=America/Los_Angeles:20261025T182000
+DTSTAMP:20261025T233000Z
+UID:staff-selects-the-daytrippers-2026-10-25-16:30:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261025T190000
-DTEND:20261025T205000
-DTSTAMP:20261025T190000Z
-UID:staff-selects-the-daytrippers-2026-10-25-19:00:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 19:20\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261025T190000
+DTEND;TZID=America/Los_Angeles:20261025T205000
+DTSTAMP:20261026T020000Z
+UID:staff-selects-the-daytrippers-2026-10-25-19:00:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART:20261026T193000
-DTEND:20261026T212000
-DTSTAMP:20261026T193000Z
-UID:staff-selects-the-daytrippers-2026-10-26-19:30:00
-DESCRIPTION:Greg Mottola\, 1996\, Canada\, 87 min\, in English\n\nWith its
-  droll humor and bittersweet emotional heft\, the feature debut of writer-
- director Greg Mottola announced the arrival of an unassumingly sharp-witte
- d new talent on the 1990s indie film scene. When she discovers a love lett
- er written to her husband (Stanley Tucci) by an unknown paramour\, the dis
- traught Eliza (Hope Davis) turns to her tight-knit Long Island family for 
- advice. Soon the entire clan—strong-willed mom (Anne Meara)\, taciturn d
- ad (Pat McNamara)\, and jaded sister (Parker Posey) with pretentious boyfr
- iend (Liev Schreiber) in tow—has squeezed into a station wagon and heade
- d into Manhattan to find out the truth\, kicking off a one-crazy-day odyss
- ey full of unexpected detours and life-changing revelations. Performed wit
- h deadpan virtuosity by a top-flight ensemble cast\, The Daytrippers is a 
- wry and piercing look at family bonds stretched to the breaking point.\n\n
- Screening as a part of our quarterly Staff Selects series! This film was c
- hosen and presented by Camille Hermida-Fuentes\, our Director of Operation
- s! \n\nEstimated start: 19:50\n\nhttps://nwfilmforum.org/films/staff-selec
- ts-the-daytrippers/
+DTSTART;TZID=America/Los_Angeles:20261026T193000
+DTEND;TZID=America/Los_Angeles:20261026T212000
+DTSTAMP:20261027T023000Z
+UID:staff-selects-the-daytrippers-2026-10-26-19:30:00-07:00
+DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
+ ure debut of writer-director Greg Mottola announced the arrival of an unas
+ sumingly sharp-witted new talent on the 1990s indie film scene. When she d
+ iscovers a love letter written to her husband (Stanley Tucci) by an unknow
+ n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
+ g Island family for advice. Soon the entire clan—strong-willed mom (Anne
+  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
+ th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
+ tion wagon and headed into Manhattan to find out the truth\, kicking off a
+  one-crazy-day odyssey full of unexpected detours and life-changing revela
+ tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
+ he Daytrippers is a wry and piercing look at family bonds stretched to the
+  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
+ ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
+ irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
+ ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
+ imated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRAUMA BOND: A Serbian Film (2026 Extended Cut) (2010)
-DTSTART:20261023T200000
-DTEND:20261023T220500
-DTSTAMP:20261023T200000Z
-UID:trauma-bond-a-serbian-film-2026-extended-cut-2026-10-23-20:00:00
-DESCRIPTION:Srđan Spasojević\, 2010\, Serbia\, 104 min\, in Serbian with
-  English Subtitles\n\nThis Halloween series is co-presented by Monday Mour
- ning and Scarecrow Video\, where every ticket directly benefits the world
- ’s largest physical media archive\, so no romance\, no comedy\, not even
-  New French Extremity\, is lost to time. Each Trauma Bond screening featur
- es a live Drag pre-show with Miss Monday.\n\nAn aging porn star agrees to 
- participate in an “art film” in order to make a clean break from the b
- usiness\, only to discover that he has been drafted into making one of the
-  harshest films ever made. In order to escape his living cinematic hell an
- d save his family’s life\, Milos will have to sacrifice everything – h
- is pride\, his morality\, his sanity\, and maybe even his own life.\n\nEst
- imated start: 20:20\n\nhttps://nwfilmforum.org/films/trauma-bond-a-serbian
- -film-2026-extended-cut/
+DTSTART;TZID=America/Los_Angeles:20261023T200000
+DTEND;TZID=America/Los_Angeles:20261023T220500
+DTSTAMP:20261024T030000Z
+UID:trauma-bond-a-serbian-film-2026-extended-cut-2026-10-23-20:00:00-07:00
+DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
+ carecrow Video\, where every ticket directly benefits the world’s larges
+ t physical media archive\, so no romance\, no comedy\, not even New French
+  Extremity\, is lost to time. Each Trauma Bond screening features a live D
+ rag pre-show with Miss Monday.\n\nAn aging porn star agrees to participate
+  in an “art film” in order to make a clean break from the business\, o
+ nly to discover that he has been drafted into making one of the harshest f
+ ilms ever made. In order to escape his living cinematic hell and save his 
+ family’s life\, Milos will have to sacrifice everything – his pride\, 
+ his morality\, his sanity\, and maybe even his own life.\n\nSrđan Spasoje
+ vić\, 2010\, Serbia\, 104 min\, in Serbian with English Subtitles\n\nhttp
+ s://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/\n
+ \nEstimated start: 20:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRAUMA BOND: Come and See (1985)
-DTSTART:20261009T200000
-DTEND:20261009T224500
-DTSTAMP:20261009T200000Z
-UID:trauma-bond-come-and-see-2026-10-09-20:00:00
-DESCRIPTION:Elem Klimov\, 1985\, Soviet Union\, 142 min\, in Russian and G
- erman with English Subtitles\n\nThis Halloween series is co-presented by M
- onday Mourning and Scarecrow Video\, where every ticket directly benefits 
- the world’s largest physical media archive\, so no romance\, no comedy\,
-  not even New French Extremity\, is lost to time. Each Trauma Bond screeni
- ng features a live Drag pre-show with Miss Monday.\n\nThis widely acclaime
- d film from Soviet director Elem Klimov is a stunning\, senses-shattering 
- plunge into the dehumanizing horrors of war. As Nazi forces encroach on hi
- s small village in present-day Belarus\, teenage Flyora (Aleksei Kravchenk
- o\, in one of the screen’s most searing depictions of anguish since Ren
- ée Falconetti’s Joan of Arc) eagerly joins the Soviet resistance. Rathe
- r than the adventure and glory he envisioned\, what he finds is a waking n
- ightmare of unimaginable carnage and cruelty—rendered with a feverish\, 
- otherworldly intensity by Klimov’s subjective camerawork and expressioni
- stic sound design. Nearly suppressed by Soviet censors who took eight year
- s to approve its script\, Come and See is perhaps the most visceral\, impo
- ssible-to-forget antiwar film ever made.\n\nEstimated start: 20:20\n\nhttp
- s://nwfilmforum.org/films/trauma-bond-come-and-see/
+DTSTART;TZID=America/Los_Angeles:20261009T200000
+DTEND;TZID=America/Los_Angeles:20261009T224500
+DTSTAMP:20261010T030000Z
+UID:trauma-bond-come-and-see-2026-10-09-20:00:00-07:00
+DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
+ carecrow Video\, where every ticket directly benefits the world’s larges
+ t physical media archive\, so no romance\, no comedy\, not even New French
+  Extremity\, is lost to time. Each Trauma Bond screening features a live D
+ rag pre-show with Miss Monday.\n\nThis widely acclaimed film from Soviet d
+ irector Elem Klimov is a stunning\, senses-shattering plunge into the dehu
+ manizing horrors of war. As Nazi forces encroach on his small village in p
+ resent-day Belarus\, teenage Flyora (Aleksei Kravchenko\, in one of the sc
+ reen’s most searing depictions of anguish since Renée Falconetti’s Jo
+ an of Arc) eagerly joins the Soviet resistance. Rather than the adventure 
+ and glory he envisioned\, what he finds is a waking nightmare of unimagina
+ ble carnage and cruelty—rendered with a feverish\, otherworldly intensit
+ y by Klimov’s subjective camerawork and expressionistic sound design. Ne
+ arly suppressed by Soviet censors who took eight years to approve its scri
+ pt\, Come and See is perhaps the most visceral\, impossible-to-forget anti
+ war film ever made.\n\nElem Klimov\, 1985\, Soviet Union\, 142 min\, in Ru
+ ssian and German with English Subtitles\n\nhttps://nwfilmforum.org/films/t
+ rauma-bond-come-and-see/\n\nEstimated start: 20:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRAUMA BOND: Irreversible (2002)
-DTSTART:20261016T200000
-DTEND:20261016T215500
-DTSTAMP:20261016T200000Z
-UID:trauma-bond-irreversible-2026-10-16-20:00:00
-DESCRIPTION:Gaspar Noé\, 2002\, France\, 93 min\, in English\, French\, I
- talian\, and German with English Subtitles\n\nThis Halloween series is co-
- presented by Monday Mourning and Scarecrow Video\, where every ticket dire
- ctly benefits the world’s largest physical media archive\, so no romance
- \, no comedy\, not even New French Extremity\, is lost to time. Each Traum
- a Bond screening features a live Drag pre-show with Miss Monday.\n\nOne ni
- ght. An unforgivable act. A tale told in reverse.\n\nAcclaimed filmmaker G
- aspar Noé’s unflinching exploration of human savagery and the uncomprom
- ising nature of time\, Irreversible was met with a groundswell of acclaim 
- and uproar upon its premiere at Cannes in 2002. Stylish\, sexually frank\,
-  and brutal\, the film’s conceit of exploring the events of one terrible
-  night on the streets of Paris in reverse chronological order was celebrat
- ed and derided in equal measure\, helping to further cement Noé’s legac
- y as a cinematic enfant terrible.\n\nEstimated start: 20:20\n\nhttps://nwf
- ilmforum.org/films/trauma-bond-irreversible/
+DTSTART;TZID=America/Los_Angeles:20261016T200000
+DTEND;TZID=America/Los_Angeles:20261016T215500
+DTSTAMP:20261017T030000Z
+UID:trauma-bond-irreversible-2026-10-16-20:00:00-07:00
+DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
+ carecrow Video\, where every ticket directly benefits the world’s larges
+ t physical media archive\, so no romance\, no comedy\, not even New French
+  Extremity\, is lost to time. Each Trauma Bond screening features a live D
+ rag pre-show with Miss Monday.\n\nOne night. An unforgivable act. A tale t
+ old in reverse.\n\nAcclaimed filmmaker Gaspar Noé’s unflinching explora
+ tion of human savagery and the uncompromising nature of time\, Irreversibl
+ e was met with a groundswell of acclaim and uproar upon its premiere at Ca
+ nnes in 2002. Stylish\, sexually frank\, and brutal\, the film’s conceit
+  of exploring the events of one terrible night on the streets of Paris in 
+ reverse chronological order was celebrated and derided in equal measure\, 
+ helping to further cement Noé’s legacy as a cinematic enfant terrible.
+ \n\nGaspar Noé\, 2002\, France\, 93 min\, in English\, French\, Italian\,
+  and German with English Subtitles\n\nhttps://nwfilmforum.org/films/trauma
+ -bond-irreversible/\n\nEstimated start: 20:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:True Stories (1986)
-DTSTART:20261007T193000
-DTEND:20261007T212000
-DTSTAMP:20261007T193000Z
-UID:true-stories-2026-10-07-19:30:00
-DESCRIPTION:David Byrne\, United States\, 1986\, 89 min\, in English\n\nTh
- ere is perhaps no film to come out of the Reagan era that is as optimistic
-  and positive about American life than David Byrne’s True Stories.\n\nIn
- spired by absurd tabloid clippings he collected while on tour with Talking
-  Heads with the question of “what if this was all true\,” Byrne manage
- d to create a collage of average middle-American life that elevates its su
- bjects to the extraordinary. Moving between computer chip plants\, mall fa
- shion shows\, and basement Voodou rituals\, True Stories becomes the inver
- se of a film like David Lynch’s Blue Velvet (released the same year!) in
-  that it seeks to find the good hidden underneath the (sometimes) hard ext
- erior of American life deep in the heart of Texas.\n\nEstimated start: 19:
- 50\n\nhttps://nwfilmforum.org/films/true-stories/
+DTSTART;TZID=America/Los_Angeles:20261007T193000
+DTEND;TZID=America/Los_Angeles:20261007T212000
+DTSTAMP:20261008T023000Z
+UID:true-stories-2026-10-07-19:30:00-07:00
+DESCRIPTION:There is perhaps no film to come out of the Reagan era that is
+  as optimistic and positive about American life than David Byrne’s True 
+ Stories.\n\nInspired by absurd tabloid clippings he collected while on tou
+ r with Talking Heads with the question of “what if this was all true\,
+ ” Byrne managed to create a collage of average middle-American life that
+  elevates its subjects to the extraordinary. Moving between computer chip 
+ plants\, mall fashion shows\, and basement Voodou rituals\, True Stories b
+ ecomes the inverse of a film like David Lynch’s Blue Velvet (released th
+ e same year!) in that it seeks to find the good hidden underneath the (som
+ etimes) hard exterior of American life deep in the heart of Texas.\n\nDavi
+ d Byrne\, United States\, 1986\, 89 min\, in English\n\nhttps://nwfilmforu
+ m.org/films/true-stories/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:True Stories (1986)
-DTSTART:20261008T190000
-DTEND:20261008T205000
-DTSTAMP:20261008T190000Z
-UID:true-stories-2026-10-08-19:00:00
-DESCRIPTION:David Byrne\, United States\, 1986\, 89 min\, in English\n\nTh
- ere is perhaps no film to come out of the Reagan era that is as optimistic
-  and positive about American life than David Byrne’s True Stories.\n\nIn
- spired by absurd tabloid clippings he collected while on tour with Talking
-  Heads with the question of “what if this was all true\,” Byrne manage
- d to create a collage of average middle-American life that elevates its su
- bjects to the extraordinary. Moving between computer chip plants\, mall fa
- shion shows\, and basement Voodou rituals\, True Stories becomes the inver
- se of a film like David Lynch’s Blue Velvet (released the same year!) in
-  that it seeks to find the good hidden underneath the (sometimes) hard ext
- erior of American life deep in the heart of Texas.\n\nEstimated start: 19:
- 20\n\nhttps://nwfilmforum.org/films/true-stories/
+DTSTART;TZID=America/Los_Angeles:20261008T190000
+DTEND;TZID=America/Los_Angeles:20261008T205000
+DTSTAMP:20261009T020000Z
+UID:true-stories-2026-10-08-19:00:00-07:00
+DESCRIPTION:There is perhaps no film to come out of the Reagan era that is
+  as optimistic and positive about American life than David Byrne’s True 
+ Stories.\n\nInspired by absurd tabloid clippings he collected while on tou
+ r with Talking Heads with the question of “what if this was all true\,
+ ” Byrne managed to create a collage of average middle-American life that
+  elevates its subjects to the extraordinary. Moving between computer chip 
+ plants\, mall fashion shows\, and basement Voodou rituals\, True Stories b
+ ecomes the inverse of a film like David Lynch’s Blue Velvet (released th
+ e same year!) in that it seeks to find the good hidden underneath the (som
+ etimes) hard exterior of American life deep in the heart of Texas.\n\nDavi
+ d Byrne\, United States\, 1986\, 89 min\, in English\n\nhttps://nwfilmforu
+ m.org/films/true-stories/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Truth To Fiction: Cameraperson (2016)
-DTSTART:20261105T193000
-DTEND:20261105T213500
-DTSTAMP:20261105T193000Z
-UID:truth-to-fiction-cameraperson-2026-11-05-19:30:00
-DESCRIPTION:Kirsten Johnson\, United States\, 2016\, 102 min\, in English
- \, Bosnian\, Farsi\, Hausa\, and Arabic with English subtitles\n\nA boxin
- g match in Brooklyn\; life in postwar Bosnia and Herzegovina\; the daily r
- outine of a Nigerian midwife\; an intimate family moment at home: these sc
- enes and others are woven into Cameraperson\, a tapestry of footage captur
- ed over the twenty-five-year career of documentary cinematographer Kirsten
-  Johnson. Through a series of episodic juxtapositions\, Johnson explores t
- he relationships between image makers and their subjects\, the tension bet
- ween the objectivity and intervention of the camera\, and the complex inte
- raction of unfiltered reality and crafted narrative. A work that combines 
- documentary\, autobiography\, and ethical inquiry\, Cameraperson is both a
-  moving glimpse into one filmmaker’s personal journey and a thoughtful e
- xamination of what it means to train a camera on the world.\n\nSynopsis co
- urtesy of Janus Films\n\nEstimated start: 19:50\n\nhttps://nwfilmforum.org
- /films/truth-to-fiction-cameraperson/
+DTSTART;TZID=America/Los_Angeles:20261105T193000
+DTEND;TZID=America/Los_Angeles:20261105T213500
+DTSTAMP:20261106T033000Z
+UID:truth-to-fiction-cameraperson-2026-11-05-19:30:00-08:00
+DESCRIPTION:A boxing match in Brooklyn\; life in postwar Bosnia and Herzeg
+ ovina\; the daily routine of a Nigerian midwife\; an intimate family momen
+ t at home: these scenes and others are woven into Cameraperson\, a tapestr
+ y of footage captured over the twenty-five-year career of documentary cine
+ matographer Kirsten Johnson. Through a series of episodic juxtapositions\,
+  Johnson explores the relationships between image makers and their subject
+ s\, the tension between the objectivity and intervention of the camera\, a
+ nd the complex interaction of unfiltered reality and crafted narrative. A 
+ work that combines documentary\, autobiography\, and ethical inquiry\, Cam
+ eraperson is both a moving glimpse into one filmmaker’s personal journey
+  and a thoughtful examination of what it means to train a camera on the wo
+ rld.\n\nKirsten Johnson\, United States\, 2016\, 102 min\, in English\, Bo
+ snian\, Farsi\, Hausa\, and Arabic with English subtitles\n\nhttps://nwfi
+ lmforum.org/films/truth-to-fiction-cameraperson/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Holy Trinity (2019)
-DTSTART:20261021T190000
-DTEND:20261021T205500
-DTSTAMP:20261021T190000Z
-UID:wtf-with-stuff-holy-trinity-2026-10-21-19:00:00
-DESCRIPTION:Glamhag\, 2019\, United States\, 91 min\, in English\n\nAfter 
- an incident huffing her drug of choice—a mysterious aerosol can from the
-  ubiquitous Glamhag brand—Trinity finds herself with a newfound gift for
-  speaking to the dead. Confused and more than a little curious about this 
- strange turn of events\, she seeks the counsel of a colorful cast of chara
- cters\, from priests and drag queens to a witch and more\, all of whom tea
- ch her their unique spiritual practices.\n\nAs she navigates life with thi
- s unexpected talent (and continues to huff that mysterious drug)\, Trinity
-  is tossed between hallucination and reality more and more frequently\, de
- veloping a growing confidence in her strange new ability and learning to h
- arness it in surprising ways. But with any great power comes great respons
- ibility\, and soon Trinity has to decide what’s more important: her comm
- unity and personal relationships or the allure of influence and fame\n\nBo
- asting an inclusive cast (including Theo Germaine from Netflix’s The Pol
- itician) and crew comprised of diverse communities often neglected in main
- stream cinema and approaching typically taboo subjects with verve and acce
- ptance\, Holy Trinity is a sometimes raunchy\, always entertaining celebra
- tion of all that makes us different. In their feature film debut\, writer
- \, director and star Glamhag presents a vibrant and vivid portrait of frie
- ndship\, spirituality and community\, with more than a little glam sprinkl
- ed in along the way.\n\nSynopsis courtesy of Full Spectrum Films\n\nEstima
- ted start: 19:20\n\nhttps://nwfilmforum.org/films/wtf-with-stuff-holy-trin
- ity/
+DTSTART;TZID=America/Los_Angeles:20261021T190000
+DTEND;TZID=America/Los_Angeles:20261021T205500
+DTSTAMP:20261022T020000Z
+UID:wtf-with-stuff-holy-trinity-2026-10-21-19:00:00-07:00
+DESCRIPTION:After an incident huffing her drug of choice—a mysterious ae
+ rosol can from the ubiquitous Glamhag brand—Trinity finds herself with a
+  newfound gift for speaking to the dead. Confused and more than a little c
+ urious about this strange turn of events\, she seeks the counsel of a colo
+ rful cast of characters\, from priests and drag queens to a witch and more
+ \, all of whom teach her their unique spiritual practices.\n\nAs she navig
+ ates life with this unexpected talent (and continues to huff that mysterio
+ us drug)\, Trinity is tossed between hallucination and reality more and mo
+ re frequently\, developing a growing confidence in her strange new ability
+  and learning to harness it in surprising ways. But with any great power c
+ omes great responsibility\, and soon Trinity has to decide what’s more i
+ mportant: her community and personal relationships or the allure of influe
+ nce and fame\n\nBoasting an inclusive cast (including Theo Germaine from N
+ etflix’s The Politician) and crew comprised of diverse communities often
+  neglected in mainstream cinema and approaching typically taboo subjects w
+ ith verve and acceptance\, Holy Trinity is a sometimes raunchy\, always en
+ tertaining celebration of all that makes us different. In their feature fi
+ lm debut\, writer\, director and star Glamhag presents a vibrant and vivid
+  portrait of friendship\, spirituality and community\, with more than a li
+ ttle glam sprinkled in along the way.\n\nGlamhag\, 2019\, United States\, 
+ 91 min\, in English\n\nhttps://nwfilmforum.org/films/wtf-with-stuff-holy-t
+ rinity/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Moves America
-DTSTART:20261019T190000
-DTEND:20261019T205000
-DTSTAMP:20261019T190000Z
-UID:who-moves-america-2026-10-19-19:00:00
-DESCRIPTION:Yael Bridge\, United States\, 2026\, 87 min\, in English\, Ger
- man\, Italian\, and French with English subtitles\n\nAs the world’s larg
- est package delivery company\, UPS moves millions of packages across more 
- than 200 countries and territories each day – and its workforce holds th
- e power to bring that machine to a halt. Who Moves America follows a UPS d
- river in California casting his first strike vote\, a Teamster in New York
-  who walked the picket line during the historic 1997 strike\, and a wareho
- use worker in Kentucky balancing night shifts with community college\, wei
- ghing whether she can afford to say no\, as well as access to the General 
- President of the International Brotherhood of Teamsters\, Sean O’Brien. 
- As they and their co-workers organize\, argue\, and campaign across the co
- untry\, the film builds toward a single\, high-stakes vote: accept the dea
- l\, or risk everything for a strike that could reshape the American econom
- y. Through intimate access and on-the-ground storytelling\, Who Moves Amer
- ica reveals the human stories behind the single largest collective bargain
- ing agreement in North America and explores the power and complexity of co
- llective action in modern America.\n\nSynopsis courtesy of 8Above\n\nEstim
- ated start: 19:20\n\nhttps://nwfilmforum.org/films/who-moves-america/
+DTSTART;TZID=America/Los_Angeles:20261019T190000
+DTEND;TZID=America/Los_Angeles:20261019T205000
+DTSTAMP:20261020T020000Z
+UID:who-moves-america-2026-10-19-19:00:00-07:00
+DESCRIPTION:As the world’s largest package delivery company\, UPS moves 
+ millions of packages across more than 200 countries and territories each d
+ ay – and its workforce holds the power to bring that machine to a halt. 
+ Who Moves America follows a UPS driver in California casting his first str
+ ike vote\, a Teamster in New York who walked the picket line during the hi
+ storic 1997 strike\, and a warehouse worker in Kentucky balancing night sh
+ ifts with community college\, weighing whether she can afford to say no\, 
+ as well as access to the General President of the International Brotherhoo
+ d of Teamsters\, Sean O’Brien. As they and their co-workers organize\, a
+ rgue\, and campaign across the country\, the film builds toward a single\,
+  high-stakes vote: accept the deal\, or risk everything for a strike that 
+ could reshape the American economy. Through intimate access and on-the-gro
+ und storytelling\, Who Moves America reveals the human stories behind the 
+ single largest collective bargaining agreement in North America and explor
+ es the power and complexity of collective action in modern America.\n\nYae
+ l Bridge\, United States\, 2026\, 87 min\, in English\, German\, Italian\,
+  and French with English subtitles\n\nhttps://nwfilmforum.org/films/who-mo
+ ves-america/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Moves America
-DTSTART:20261020T190000
-DTEND:20261020T205000
-DTSTAMP:20261020T190000Z
-UID:who-moves-america-2026-10-20-19:00:00
-DESCRIPTION:Yael Bridge\, United States\, 2026\, 87 min\, in English\, Ger
- man\, Italian\, and French with English subtitles\n\nAs the world’s larg
- est package delivery company\, UPS moves millions of packages across more 
- than 200 countries and territories each day – and its workforce holds th
- e power to bring that machine to a halt. Who Moves America follows a UPS d
- river in California casting his first strike vote\, a Teamster in New York
-  who walked the picket line during the historic 1997 strike\, and a wareho
- use worker in Kentucky balancing night shifts with community college\, wei
- ghing whether she can afford to say no\, as well as access to the General 
- President of the International Brotherhood of Teamsters\, Sean O’Brien. 
- As they and their co-workers organize\, argue\, and campaign across the co
- untry\, the film builds toward a single\, high-stakes vote: accept the dea
- l\, or risk everything for a strike that could reshape the American econom
- y. Through intimate access and on-the-ground storytelling\, Who Moves Amer
- ica reveals the human stories behind the single largest collective bargain
- ing agreement in North America and explores the power and complexity of co
- llective action in modern America.\n\nSynopsis courtesy of 8Above\n\nEstim
- ated start: 19:20\n\nhttps://nwfilmforum.org/films/who-moves-america/
+DTSTART;TZID=America/Los_Angeles:20261020T190000
+DTEND;TZID=America/Los_Angeles:20261020T205000
+DTSTAMP:20261021T020000Z
+UID:who-moves-america-2026-10-20-19:00:00-07:00
+DESCRIPTION:As the world’s largest package delivery company\, UPS moves 
+ millions of packages across more than 200 countries and territories each d
+ ay – and its workforce holds the power to bring that machine to a halt. 
+ Who Moves America follows a UPS driver in California casting his first str
+ ike vote\, a Teamster in New York who walked the picket line during the hi
+ storic 1997 strike\, and a warehouse worker in Kentucky balancing night sh
+ ifts with community college\, weighing whether she can afford to say no\, 
+ as well as access to the General President of the International Brotherhoo
+ d of Teamsters\, Sean O’Brien. As they and their co-workers organize\, a
+ rgue\, and campaign across the country\, the film builds toward a single\,
+  high-stakes vote: accept the deal\, or risk everything for a strike that 
+ could reshape the American economy. Through intimate access and on-the-gro
+ und storytelling\, Who Moves America reveals the human stories behind the 
+ single largest collective bargaining agreement in North America and explor
+ es the power and complexity of collective action in modern America.\n\nYae
+ l Bridge\, United States\, 2026\, 87 min\, in English\, German\, Italian\,
+  and French with English subtitles\n\nhttps://nwfilmforum.org/films/who-mo
+ ves-america/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR

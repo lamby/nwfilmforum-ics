@@ -82,7 +82,6 @@ class NWFilmForumICS:
         soup = BeautifulSoup(r.content, "html.parser")
 
         data["title"] = soup.find("h1").get_text()
-
         data["title"] = data["title"].replace(" (4K Restoration)", "")
 
         try:
@@ -92,12 +91,16 @@ class NWFilmForumICS:
             return
 
         data["brief"] = about_elem.find_all("p")[0].get_text().strip("()")
-        data["about"] = "\n\n".join(x.get_text() for x in about_elem.find_all("p")[1:])
+
+        about = [x.get_text() for x in about_elem.find_all("p")[1:]]
+        about = [x for x in about if not x.startswith("Synopsis courtesy of ")]
+
+        data["about"] = "\n\n".join(about)
         data["about"] = data["about"].replace("\xa0", " ")
 
         for x in soup.find_all("time"):
             dt = datetime.datetime.strptime(x.attrs["datetime"], '%Y-%m-%d %H:%M:%S')
-            data["showtimes"].append(dt)
+            data["showtimes"].append(dt.astimezone(self.LOCAL_TIMEZONE))
 
         for x in soup.find_all("div", {"class": "film-details__item"}):
             # Year
@@ -139,7 +142,7 @@ class NWFilmForumICS:
                 # Calculate times
                 estimated_start = (showtime + datetime.timedelta(
                     minutes=self.PADDING,
-                )).astimezone(self.LOCAL_TIMEZONE)
+                ))
 
                 end = showtime + datetime.timedelta(
                     minutes=self.PADDING + self.round_to_nearest(film["duration"], 5)
@@ -160,13 +163,12 @@ class NWFilmForumICS:
                     "Northwest Film Forum, 1515 12th Ave, Seattle, WA 98122"
                 )
 
-                description = [film["brief"], film["about"]]
+                description = [film["about"], film["brief"], film["url"]]
 
                 description.append(
                     f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
                 )
 
-                description.append(film["url"])
 
                 event.add("description", "\n\n".join(description))
 
