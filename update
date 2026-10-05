@@ -1,0 +1,187 @@
+#!/usr/bin/env python3
+#
+# https://icalendar.readthedocs.io/en/latest/usage.html#example
+
+import datetime
+import json
+import logging
+import re
+import pprint
+
+import click
+import icalendar
+import pytz
+import requests
+import slugify
+import pprint
+import yaml
+
+from bs4 import BeautifulSoup
+from rich.logging import RichHandler
+from rich.progress import track
+
+from concurrent.futures import ThreadPoolExecutor
+
+logging.basicConfig(
+    level=logging.DEBUG, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
+
+
+class NWFilmForumICS:
+    PADDING = 20  # minutes
+    START = datetime.date.today()
+    WEEKS = 5
+    LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
+    BASE_URL = "https://nwfilmforum.org/calendar/?start="
+
+    def __init__(self):
+        self.session = requests.Session()
+        self.executor = ThreadPoolExecutor(max_workers=4)
+
+        self.film_urls = set()
+        self.films = []
+
+    def main(self):
+        # Get individual film URLs to parse
+        weeks = [self.START + datetime.timedelta(days=7 * x) for x in range(self.WEEKS)]
+        list(self.executor.map(self.populate_films_for_week, weeks))
+        logging.info(f"Found {len(self.film_urls)} total films")
+
+        # Populate film info
+        list(self.executor.map(self.populate_film_info, self.film_urls))
+
+        ics = self.get_ics()
+        with open(f"ics/nwfilmforum.ics", "w") as f:
+            f.write(ics)
+
+    def populate_films_for_week(self, date):
+        date_fmt = date.strftime("%Y-%m-%d")
+        logging.info(f"Getting films for week starting {date_fmt}")
+
+        r = self.session.get(
+            "{}{}".format(self.BASE_URL, date_fmt),
+        )
+        r.raise_for_status()
+
+        soup = BeautifulSoup(r.content, "html.parser")
+
+        for elem in soup.select("a[class=calendar__item__link]"):
+            self.film_urls.add(elem.attrs["href"])
+
+    def populate_film_info(self, url):
+        slug = url.split("/")[-2]
+        data = {
+            "url": url,
+            "showtimes": [],
+            "slug": slug,
+        }
+
+        r = self.session.get(url)
+        r.raise_for_status()
+
+        soup = BeautifulSoup(r.content, "html.parser")
+
+        data["title"] = soup.find("h1").get_text()
+
+        data["title"] = data["title"].replace(" (4K Restoration)", "")
+
+        try:
+            about_elem = soup.find("h2", string="About").parent
+        except AttributeError:
+            logging.warning(f"Ignoring {url} as could not parse")
+            return
+
+        data["brief"] = about_elem.find_all("p")[0].get_text().strip("()")
+        data["about"] = "\n\n".join(x.get_text() for x in about_elem.find_all("p")[1:])
+        data["about"] = data["about"].replace("\xa0", " ")
+
+        for x in soup.find_all("time"):
+            dt = datetime.datetime.strptime(x.attrs["datetime"], '%Y-%m-%d %H:%M:%S')
+            data["showtimes"].append(dt)
+
+        for x in soup.find_all("div", {"class": "film-details__item"}):
+            # Year
+            m = re.match(r"^\d+$", x.get_text())
+            if m is not None:
+                data["year"] = int(m.group(0))
+
+            # Duration
+            m = re.match(r"^(\d+)h(?: (\d+)m)?$", x.get_text())
+            if m is not None:
+                hours = int(m.group(1))
+                minutes = int(m.group(2) or 0)
+                data["duration"] = (hours * 60) + minutes
+
+        if "duration" not in data:
+            logging.warning(f"Ignoring {url} as could not parse duration")
+            return
+
+        self.films.append(data)
+
+    def get_ics(self):
+        logging.info(f"Generating ICS")
+        name = f"🎬 Northwest Film Forum"
+
+        cal = icalendar.Calendar()
+        cal.add("prodid", "-//icalendar//mxm.dk//")
+        cal.add("version", "2.0")
+        cal.add("name", name)
+        cal.add("x-wr-calname", name)
+        cal.add("last-modified", datetime.datetime.now(datetime.UTC))
+
+        for film in sorted(self.films, key=lambda x: x["title"]):
+            for showtime in film["showtimes"]:
+                event = icalendar.Event()
+
+                uid = "{}-{}".format(film["slug"], str(showtime).replace(" ", "-"))
+                event.add("uid", uid)
+
+                # Calculate times
+                estimated_start = (showtime + datetime.timedelta(
+                    minutes=self.PADDING,
+                )).astimezone(self.LOCAL_TIMEZONE)
+
+                end = showtime + datetime.timedelta(
+                    minutes=self.PADDING + self.round_to_nearest(film["duration"], 5)
+                )
+
+                event.add("dtstamp", showtime)
+                event.add("dtstart", showtime)
+                event.add("dtend", end)
+
+                # Summary
+                summary = film["title"]
+                if film["year"] < datetime.date.today().year - 2:
+                    summary = f"{summary} ({film['year']})"
+                event.add("summary", summary)
+
+                event.add(
+                    "location",
+                    "Northwest Film Forum, 1515 12th Ave, Seattle, WA 98122"
+                )
+
+                description = [film["brief"], film["about"]]
+
+                description.append(
+                    f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+                )
+
+                description.append(film["url"])
+
+                event.add("description", "\n\n".join(description))
+
+                cal.add_component(event)
+
+        return cal.to_ical().decode("utf-8")
+
+    def round_to_nearest(self, val, nearest_to):
+        return (val + (nearest_to - 1)) // nearest_to * nearest_to
+
+
+@click.command()
+def main():
+    NWFilmForumICS().main()
+
+
+if __name__ == "__main__":
+    main()
