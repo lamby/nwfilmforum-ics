@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261005T235501Z
+LAST-MODIFIED:20261006T144204Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
 DTSTART;TZID=America/Los_Angeles:20261020T180000
@@ -284,25 +284,6 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronovisor
-DTSTART;TZID=America/Los_Angeles:20261005T193000
-DTEND;TZID=America/Los_Angeles:20261005T213000
-DTSTAMP:20261006T023000Z
-UID:chronovisor-2026-10-05-19:30:00-07:00
-DESCRIPTION:While writing a monograph on historical theories of memory\, B
- éatrice (Anne-Laure Sellier)\, a respected academic\, becomes beguiled by
-  the allegedly true story of the Chronovisor\, an occult device said to re
- produce visuals from any point in history on a TV screen. Her obsession wi
- th the mysterious machine drags her from her Upper East Side apartment thr
- ough the depths of New York City’s hidden libraries\, to the edge of a b
- reakthrough.\n\n“Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Ja
- ne Schoenbrun (director\, Teenage Sex and Death at Camp Miasma)\n\nJack Au
- en\, Kevin Walker\, United States\, 2026\, 100 min\, in English\, German\,
-  Italian\, and French with English subtitles\n\nhttps://nwfilmforum.org/fi
- lms/chronovisor/\n\nEstimated start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor
 DTSTART;TZID=America/Los_Angeles:20261006T193000
 DTEND;TZID=America/Los_Angeles:20261006T213000
 DTSTAMP:20261007T023000Z
@@ -348,6 +329,62 @@ DESCRIPTION:The documentary film on the life and legacy of Rahsaan Roland
  estival!\n\nAdam Kahan\, United States\, 2014\, 88 min\, in English\n\nhtt
  ps://nwfilmforum.org/films/the-case-of-the-three-sided-dream/\n\nEstimated
   start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Autumn (1960)
+DTSTART;TZID=America/Los_Angeles:20261128T160000
+DTEND;TZID=America/Los_Angeles:20261128T183000
+DTSTAMP:20261129T000000Z
+UID:late-autumn-2026-11-28-16:00:00-08:00
+DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother 
+ gently trying to persuade her daughter to marry in this glowing portrait o
+ f family love and conflict—a reworking of Ozu’s 1949 masterpiece Late 
+ Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
+ sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
+ art: 16:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Autumn (1960)
+DTSTART;TZID=America/Los_Angeles:20261128T190000
+DTEND;TZID=America/Los_Angeles:20261128T213000
+DTSTAMP:20261129T030000Z
+UID:late-autumn-2026-11-28-19:00:00-08:00
+DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother 
+ gently trying to persuade her daughter to marry in this glowing portrait o
+ f family love and conflict—a reworking of Ozu’s 1949 masterpiece Late 
+ Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
+ sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
+ art: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Autumn (1960)
+DTSTART;TZID=America/Los_Angeles:20261129T160000
+DTEND;TZID=America/Los_Angeles:20261129T183000
+DTSTAMP:20261130T000000Z
+UID:late-autumn-2026-11-29-16:00:00-08:00
+DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother 
+ gently trying to persuade her daughter to marry in this glowing portrait o
+ f family love and conflict—a reworking of Ozu’s 1949 masterpiece Late 
+ Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
+ sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
+ art: 16:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Autumn (1960)
+DTSTART;TZID=America/Los_Angeles:20261129T190000
+DTEND;TZID=America/Los_Angeles:20261129T213000
+DTSTAMP:20261130T030000Z
+UID:late-autumn-2026-11-29-19:00:00-08:00
+DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother 
+ gently trying to persuade her daughter to marry in this glowing portrait o
+ f family love and conflict—a reworking of Ozu’s 1949 masterpiece Late 
+ Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
+ sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
+ art: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -440,6 +477,52 @@ DESCRIPTION:Special Introduction by Matt Oakes of Silver Screen Riot\n\nGr
  death showdown.\n\nJeremy Saulnier\, 2016\, United States\, 95 min\, in En
  glish\n\nhttps://nwfilmforum.org/films/sfcs-10-green-room/\n\nEstimated st
  art: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFCS at 10: Moonlight (2016)
+DTSTART;TZID=America/Los_Angeles:20261209T190000
+DTEND;TZID=America/Los_Angeles:20261209T211500
+DTSTAMP:20261210T030000Z
+UID:sfcs-10-moonlight-2026-12-09-19:00:00-08:00
+DESCRIPTION:Special introduction by Timothy Hall of The People’s Critic
+ \n\nA timeless story of human connection and self-discovery\, Moonlight ch
+ ronicles the life of a young black man from childhood to adulthood as he s
+ truggles to find his place in the world while growing up in a rough neighb
+ orhood of Miami. At once a vital portrait of contemporary African-American
+  life and an intensely personal and poetic meditation on identity\, family
+ \, friendship\, and love\, Moonlight is a groundbreaking piece of cinema t
+ hat reverberates with deep compassion and universal truths. Anchored by ex
+ traordinary performances from a tremendous ensemble cast\, Barry Jenkins
+ ’s staggering\, singular vision is profoundly moving in its portrayal of
+  the moments\, people\, and unknowable forces that shape our lives and mak
+ e us who we are.\n\nBarry Jenkins\, 2016\, United States\, 111 min\, in En
+ glish\n\nhttps://nwfilmforum.org/films/sfcs-10-moonlight/\n\nEstimated sta
+ rt: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFCS at 10: The Witch (2016)
+DTSTART;TZID=America/Los_Angeles:20261119T183000
+DTEND;TZID=America/Los_Angeles:20261119T202500
+DTSTAMP:20261120T023000Z
+UID:sfcs-10-witch-2026-11-19-18:30:00-08:00
+DESCRIPTION:Special introduction by Bob Foster of Cinema Crazed\n\nNew Eng
+ land\, 1630. Upon threat of banishment by the church\, an English farmer l
+ eaves his colonial plantation\, relocating his wife and five children to a
+  remote plot of land on the edge of an ominous forest—within which lurks
+  an unknown evil. Strange and unsettling things begin to happen almost imm
+ ediately—animals turn malevolent\, crops fail\, and one child disappears
+  as another becomes seemingly possessed by an evil spirit. With suspicion 
+ and paranoia mounting\, family members accuse teenage daughter Thomasin of
+  witchcraft\, charges she adamantly denies. As circumstances grow more tre
+ acherous\, each family member’s faith\, loyalty and love become tested i
+ n shocking and unforgettable ways.\n\nIn this exquisitely made and terrify
+ ing new horror film\, the age-old concepts of witchcraft\, black magic and
+  possession are innovatively brought together to tell the intimate and riv
+ eting story of one family’s frightful unraveling in the New England wild
+ erness.\n\nRobert Eggers\, 2016\, United States\, 92 min\, in English\n\nh
+ ttps://nwfilmforum.org/films/sfcs-10-witch/\n\nEstimated start: 18:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -845,6 +928,104 @@ DESCRIPTION:A boxing match in Brooklyn\; life in postwar Bosnia and Herzeg
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Truth To Fiction: The Store (1983)
+DTSTART;TZID=America/Los_Angeles:20261203T190000
+DTEND;TZID=America/Los_Angeles:20261203T212000
+DTSTAMP:20261204T030000Z
+UID:truth-to-fiction-the-store-2026-12-03-19:00:00-08:00
+DESCRIPTION:THE STORE is a film about the main Neiman-Marcus store and cor
+ porate headquarters in Dallas. The sequences in the film include the selec
+ tion\, presentation\, marketing\, pricing\, advertising and selling of a v
+ ast array of consumer products including designer clothes and furs\, jewel
+ ry\, perfumes\, shoes\, electronic products\, sportswear\, china and porce
+ lain and many other goods. The internal management and organizational aspe
+ cts of a large corporation are shown\, i.e.\, sales meetings\, development
+  of marketing and advertising strategies\, training\, personnel practices 
+ and sales techniques.\n\n“…witnessing how an establishment deftly cate
+ rs to such appetites makes for an engrossing spectacle… Only Wiseman see
+ ms able to consistently capture those tiny\, illuminating surprises that s
+ tay with us long after he’s through with us.” –Harry F. Waters\, New
+ sweek\n\nFrederick Wiseman\, United States\, 1983\, 118 min\, in English\n
+ \nhttps://nwfilmforum.org/films/truth-to-fiction-the-store/\n\nEstimated s
+ tart: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unstreamable - Love Streams (1984)
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T214000
+DTSTAMP:20261121T030000Z
+UID:unstreamable-love-streams-2026-11-20-19:00:00-08:00
+DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
+ ely women he writes about in his novels. His sister\, Sarah\, has alienate
+ d their family with precisely that sort of stultifying love. As the stream
+ s of their lives\, loves and dreams intertwine\, these two lost souls begi
+ n to find each other and ultimately\, themselves.\n\nJohn Cassavetes\, 198
+ 4\, United States\, 140 min\, in English\n\nhttps://nwfilmforum.org/films/
+ unstreamable-love-streams/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unstreamable - Love Streams (1984)
+DTSTART;TZID=America/Los_Angeles:20261121T160000
+DTEND;TZID=America/Los_Angeles:20261121T184000
+DTSTAMP:20261122T000000Z
+UID:unstreamable-love-streams-2026-11-21-16:00:00-08:00
+DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
+ ely women he writes about in his novels. His sister\, Sarah\, has alienate
+ d their family with precisely that sort of stultifying love. As the stream
+ s of their lives\, loves and dreams intertwine\, these two lost souls begi
+ n to find each other and ultimately\, themselves.\n\nJohn Cassavetes\, 198
+ 4\, United States\, 140 min\, in English\n\nhttps://nwfilmforum.org/films/
+ unstreamable-love-streams/\n\nEstimated start: 16:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unstreamable - Love Streams (1984)
+DTSTART;TZID=America/Los_Angeles:20261121T190000
+DTEND;TZID=America/Los_Angeles:20261121T214000
+DTSTAMP:20261122T030000Z
+UID:unstreamable-love-streams-2026-11-21-19:00:00-08:00
+DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
+ ely women he writes about in his novels. His sister\, Sarah\, has alienate
+ d their family with precisely that sort of stultifying love. As the stream
+ s of their lives\, loves and dreams intertwine\, these two lost souls begi
+ n to find each other and ultimately\, themselves.\n\nJohn Cassavetes\, 198
+ 4\, United States\, 140 min\, in English\n\nhttps://nwfilmforum.org/films/
+ unstreamable-love-streams/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unstreamable - Love Streams (1984)
+DTSTART;TZID=America/Los_Angeles:20261122T160000
+DTEND;TZID=America/Los_Angeles:20261122T184000
+DTSTAMP:20261123T000000Z
+UID:unstreamable-love-streams-2026-11-22-16:00:00-08:00
+DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
+ ely women he writes about in his novels. His sister\, Sarah\, has alienate
+ d their family with precisely that sort of stultifying love. As the stream
+ s of their lives\, loves and dreams intertwine\, these two lost souls begi
+ n to find each other and ultimately\, themselves.\n\nJohn Cassavetes\, 198
+ 4\, United States\, 140 min\, in English\n\nhttps://nwfilmforum.org/films/
+ unstreamable-love-streams/\n\nEstimated start: 16:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unstreamable - Love Streams (1984)
+DTSTART;TZID=America/Los_Angeles:20261122T190000
+DTEND;TZID=America/Los_Angeles:20261122T214000
+DTSTAMP:20261123T030000Z
+UID:unstreamable-love-streams-2026-11-22-19:00:00-08:00
+DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
+ ely women he writes about in his novels. His sister\, Sarah\, has alienate
+ d their family with precisely that sort of stultifying love. As the stream
+ s of their lives\, loves and dreams intertwine\, these two lost souls begi
+ n to find each other and ultimately\, themselves.\n\nJohn Cassavetes\, 198
+ 4\, United States\, 140 min\, in English\n\nhttps://nwfilmforum.org/films/
+ unstreamable-love-streams/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WTF with STUFF - Holy Trinity (2019)
 DTSTART;TZID=America/Los_Angeles:20261021T190000
 DTEND;TZID=America/Los_Angeles:20261021T205500
@@ -872,6 +1053,91 @@ DESCRIPTION:After an incident huffing her drug of choice—a mysterious ae
  ttle glam sprinkled in along the way.\n\nGlamhag\, 2019\, United States\, 
  91 min\, in English\n\nhttps://nwfilmforum.org/films/wtf-with-stuff-holy-t
  rinity/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WTF with STUFF - Kokomo City (2023)
+DTSTART;TZID=America/Los_Angeles:20261118T190000
+DTEND;TZID=America/Los_Angeles:20261118T203500
+DTSTAMP:20261119T030000Z
+UID:wtf-with-stuff-kokomo-city-2026-11-18-19:00:00-08:00
+DESCRIPTION:In the wildly entertaining and refreshingly unfiltered documen
+ tary Kokomo City\, filmmaker D. Smith passes the mic to four Black transge
+ nder sex workers in Atlanta and New York City – Daniella Carter\, Koko D
+ a Doll\, Liyah Mitchell\, and Dominique Silver – who unapologetically br
+ eak down the walls of their profession. Holding nothing back\, the film vi
+ brates with energy\, sex\, challenge\, and hard-earned wisdom.\n\nThis vit
+ al portrait\, edited and shot by Smith in bold black and white\, is her fe
+ ature directorial debut. A two-time Grammy-nominated producer\, singer\, a
+ nd songwriter\, Smith made history as the first trans woman cast on a prim
+ etime unscripted TV show. Executive produced by Lena Waithe\, KOKOMO CITY 
+ won the Sundance Film Festival’s NEXT Innovator Award and NEXT Audience 
+ Award\, as well as the Berlinale’s Audience Award in the Panorama Docume
+ ntary section.\n\nD. Smith\, 2023\, United States\, 73 min\, in English\n
+ \nhttps://nwfilmforum.org/films/wtf-with-stuff-kokomo-city/\n\nEstimated s
+ tart: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WTO/99
+DTSTART;TZID=America/Los_Angeles:20261130T190000
+DTEND;TZID=America/Los_Angeles:20261130T210000
+DTSTAMP:20261201T030000Z
+UID:wto-99-2026-11-30-19:00:00-08:00
+DESCRIPTION:From November 30th to December 3rd 1999\, tens of thousands of
+  people occupied the streets of downtown Seattle to make known their conce
+ rns about the existence of the World Trade Organization and its impacts on
+  the environment\, human rights\, and labor in the largest protests agains
+ t economic globalization the US has ever seen.\n\nThe protests brought tog
+ ether people from divergent sections of society—anarchists\, environment
+ alists\, labor unions\, consumer protection advocates\, pro-democracy grou
+ ps\, and even religious organizations. \n\nThese protestors gathered in di
+ rect action hoping to dissuade world leadership from continued support of 
+ the WTO and strived to focus the public’s attention to the kind of futur
+ e the WTO would bring forth.\n\nBuilding from a thousand-hour archive\, wh
+ ich includes more than 400 hours of never-before-seen footage\, WTO’99 r
+ eanimates the ideological conflicts that drew thousands to the streets of 
+ Seattle in hopes for a better future. The film is an immersive visual arti
+ fact of a week that brought 40\,000 people together to warn of environment
+ al collapse\, the vanishing middle class\, and what the full inclusion of 
+ China in the World Trade Organization would mean for our collective future
+ . The protesters—seen as a rabble-rousing nuisance at the time\, yet app
+ earing prophetic today—were met with extreme violence by a militarized p
+ olice force\, an all-too-fitting way to usher in a new century\; one that 
+ is now defined by US failure to address climate change and increasing stat
+ e aggression. \n\nIan Bell\, 2025\, United States\, 100 min\, in English\n
+ \nhttps://nwfilmforum.org/films/wto-99/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WTO/99
+DTSTART;TZID=America/Los_Angeles:20261201T190000
+DTEND;TZID=America/Los_Angeles:20261201T210000
+DTSTAMP:20261202T030000Z
+UID:wto-99-2026-12-01-19:00:00-08:00
+DESCRIPTION:From November 30th to December 3rd 1999\, tens of thousands of
+  people occupied the streets of downtown Seattle to make known their conce
+ rns about the existence of the World Trade Organization and its impacts on
+  the environment\, human rights\, and labor in the largest protests agains
+ t economic globalization the US has ever seen.\n\nThe protests brought tog
+ ether people from divergent sections of society—anarchists\, environment
+ alists\, labor unions\, consumer protection advocates\, pro-democracy grou
+ ps\, and even religious organizations. \n\nThese protestors gathered in di
+ rect action hoping to dissuade world leadership from continued support of 
+ the WTO and strived to focus the public’s attention to the kind of futur
+ e the WTO would bring forth.\n\nBuilding from a thousand-hour archive\, wh
+ ich includes more than 400 hours of never-before-seen footage\, WTO’99 r
+ eanimates the ideological conflicts that drew thousands to the streets of 
+ Seattle in hopes for a better future. The film is an immersive visual arti
+ fact of a week that brought 40\,000 people together to warn of environment
+ al collapse\, the vanishing middle class\, and what the full inclusion of 
+ China in the World Trade Organization would mean for our collective future
+ . The protesters—seen as a rabble-rousing nuisance at the time\, yet app
+ earing prophetic today—were met with extreme violence by a militarized p
+ olice force\, an all-too-fitting way to usher in a new century\; one that 
+ is now defined by US failure to address climate change and increasing stat
+ e aggression. \n\nIan Bell\, 2025\, United States\, 100 min\, in English\n
+ \nhttps://nwfilmforum.org/films/wto-99/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -924,6 +1190,168 @@ DESCRIPTION:As the world’s largest package delivery company\, UPS moves
  l Bridge\, United States\, 2026\, 87 min\, in English\, German\, Italian\,
   and French with English subtitles\n\nhttps://nwfilmforum.org/films/who-mo
  ves-america/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261112T193000
+DTEND;TZID=America/Los_Angeles:20261112T213000
+DTSTAMP:20261113T033000Z
+UID:zi-2026-11-12-19:30:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261113T170000
+DTEND;TZID=America/Los_Angeles:20261113T190000
+DTSTAMP:20261114T010000Z
+UID:zi-2026-11-13-17:00:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 17:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261115T160000
+DTEND;TZID=America/Los_Angeles:20261115T180000
+DTSTAMP:20261116T000000Z
+UID:zi-2026-11-15-16:00:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 16:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261115T190000
+DTEND;TZID=America/Los_Angeles:20261115T210000
+DTSTAMP:20261116T030000Z
+UID:zi-2026-11-15-19:00:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261116T190000
+DTEND;TZID=America/Los_Angeles:20261116T210000
+DTSTAMP:20261117T030000Z
+UID:zi-2026-11-16-19:00:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zi
+DTSTART;TZID=America/Los_Angeles:20261118T193000
+DTEND;TZID=America/Los_Angeles:20261118T213000
+DTSTAMP:20261119T033000Z
+UID:zi-2026-11-18-19:30:00-08:00
+DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
+ self meets a stranger who changes the course of her night—and possibly h
+ er life. Kogonada plays with — and returns to — form in this sensitive
+  cinematic poem. Held within a stylish jaunt through the streets of Hong K
+ ong\, zi is a film with soul and a wavelike confidence that commits to rec
+ ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
+ ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
+ ling with a clever fusion of existential anxiety\, romantic misgiving\, an
+ d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
+ sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
+ ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
+ f peace. Through the igniting/smoldering embers of relationships lost/form
+ ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR

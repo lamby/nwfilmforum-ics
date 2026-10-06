@@ -30,7 +30,7 @@ logging.basicConfig(
 class NWFilmForumICS:
     PADDING = 20  # minutes
     START = datetime.date.today()
-    WEEKS = 5
+    WEEKS = 10
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://nwfilmforum.org/calendar/?start="
 
