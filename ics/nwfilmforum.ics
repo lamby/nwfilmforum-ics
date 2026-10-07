@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261006T144204Z
+LAST-MODIFIED:20261007T170451Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
 DTSTART;TZID=America/Los_Angeles:20261020T180000
@@ -284,21 +284,21 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronovisor
-DTSTART;TZID=America/Los_Angeles:20261006T193000
-DTEND;TZID=America/Los_Angeles:20261006T213000
-DTSTAMP:20261007T023000Z
-UID:chronovisor-2026-10-06-19:30:00-07:00
+DTSTART;TZID=America/Los_Angeles:20261014T193000
+DTEND;TZID=America/Los_Angeles:20261014T213000
+DTSTAMP:20261015T023000Z
+UID:chronovisor-2026-10-14-19:30:00-07:00
 DESCRIPTION:While writing a monograph on historical theories of memory\, B
  éatrice (Anne-Laure Sellier)\, a respected academic\, becomes beguiled by
   the allegedly true story of the Chronovisor\, an occult device said to re
  produce visuals from any point in history on a TV screen. Her obsession wi
  th the mysterious machine drags her from her Upper East Side apartment thr
  ough the depths of New York City’s hidden libraries\, to the edge of a b
- reakthrough.\n\n“Don’t miss CHRONOVISOR all hail CHRONOVISOR” — Ja
- ne Schoenbrun (director\, Teenage Sex and Death at Camp Miasma)\n\nJack Au
- en\, Kevin Walker\, United States\, 2026\, 100 min\, in English\, German\,
-  Italian\, and French with English subtitles\n\nhttps://nwfilmforum.org/fi
- lms/chronovisor/\n\nEstimated start: 19:50
+ reakthrough.\n\n“Don’t miss CHRONOVISOR all hail CHRONOVISOR”\n— J
+ ane Schoenbrun (director\, Teenage Sex and Death at Camp Miasma)\n\nJack A
+ uen\, Kevin Walker\, United States\, 2026\, 100 min\, in English\, German
+ \, Italian\, and French with English subtitles\n\nhttps://nwfilmforum.org/
+ films/chronovisor/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -329,6 +329,19 @@ DESCRIPTION:The documentary film on the life and legacy of Rahsaan Roland
  estival!\n\nAdam Kahan\, United States\, 2014\, 88 min\, in English\n\nhtt
  ps://nwfilmforum.org/films/the-case-of-the-three-sided-dream/\n\nEstimated
   start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jennifer's Body (2009)
+DTSTART;TZID=America/Los_Angeles:20261027T190000
+DTEND;TZID=America/Los_Angeles:20261027T211000
+DTSTAMP:20261028T020000Z
+UID:jennifers-body-2026-10-27-19:00:00-07:00
+DESCRIPTION:Megan Fox stars in this horror-comedy about a high school chee
+ rleader who develops an insatiable appetite for her male classmates after 
+ she’s possessed by a hungry demon.\n\nKaryn Kusama\, 2009\, United State
+ s\, 107 min\, in English\n\nhttps://nwfilmforum.org/films/jennifers-body/
+ \n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -385,6 +398,244 @@ DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother
  Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
  sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
  art: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261120T193000
+DTEND;TZID=America/Los_Angeles:20261120T211500
+DTSTAMP:20261121T033000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-20-19:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261121T163000
+DTEND;TZID=America/Los_Angeles:20261121T181500
+DTSTAMP:20261122T003000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-21-16:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261121T193000
+DTEND;TZID=America/Los_Angeles:20261121T211500
+DTSTAMP:20261122T033000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-21-19:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261122T163000
+DTEND;TZID=America/Los_Angeles:20261122T181500
+DTSTAMP:20261123T003000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-22-16:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261122T193000
+DTEND;TZID=America/Los_Angeles:20261122T211500
+DTSTAMP:20261123T033000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-22-19:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261123T193000
+DTEND;TZID=America/Los_Angeles:20261123T211500
+DTSTAMP:20261124T033000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-23-19:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Brother's Wedding (1983)
+DTSTART;TZID=America/Los_Angeles:20261124T193000
+DTEND;TZID=America/Los_Angeles:20261124T211500
+DTSTAMP:20261125T033000Z
+UID:my-brothers-wedding-4k-restoration-2026-11-24-19:30:00-08:00
+DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
+ as) is employed at his parents’ South Central dry cleaners with no prosp
+ ects for the future — his childhood buddies are all in prison or dead. P
+ ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
+ ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
+ sy planning a wedding to a snooty upper-middle-class black woman named Son
+ ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
+ ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
+  comic relief but also a heartfelt moral backbone to the film\, as she urg
+ es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
+ illed in a car accident\, Pierce’s conflicting obligations to family and
+  friends becomes manifested in the choice between his brother’s wedding 
+ and his best friend’s funeral— both falling on the same day. The film
+ ’s climax has Pierce desperately trying to be two places at once and end
+ ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
+ uch of his life as of yet\, and at a crucial point in his life\, he is una
+ ble to make the proper decision\, a sober decision\, a moral decision. Thi
+ s is a consequence of his not having developed beyond the embryonic stage
+ \, socially. He has a distinct romantic notion about life in the ghetto an
+ d yet\, in spite of his naive sensitivity\, he is given the task of being 
+ his brother’s keeper\; he feels rather than sees\, and as a consequence 
+ his capacity for judging things off in the distance is limited. This bring
+ s about circumstances that weave themselves into a set of complexities whi
+ ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
+ urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
+ .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
