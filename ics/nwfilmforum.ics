@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261008T154927Z
+LAST-MODIFIED:20261009T145348Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
 DTSTART;TZID=America/Los_Angeles:20261020T180000
@@ -644,31 +644,34 @@ DTSTART;TZID=America/Los_Angeles:20261101T160000
 DTEND;TZID=America/Los_Angeles:20261101T180500
 DTSTAMP:20261102T000000Z
 UID:once-upon-time-seattle-2026-11-01-16:00:00-08:00
-DESCRIPTION:SPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEM
- BER 2026 EDITION! \n\nComprised of moments from over 40 films shot in Seat
- tle\, and a few irresistible facsimiles\, Once Upon a Time in Seattle is p
- art love letter\, part loony action adventure\, and part free-associative 
- meditation on the transience of landscape in a city that has always had a 
- complicated relationship with honoring its past while moving swiftly (reck
- lessly?) into the future.\n\nThere is no linear narrative\, and dialogue i
- s kept to a minimum. The city itself is both location and protagonist\, wh
- ile the function of the human characters\, or perhaps more accurately\, ci
- phers\, is that of a vessel to move us through the city and occasionally o
- ffer loose context or comic relief. With one exception\, no single existin
- g shot or sequence is sustained longer than a minute\, with most individua
- l shots lasting less than 20 seconds\, and over half clocking in at 5 seco
- nds or less. The result is a deceptively complex amalgamation of wholly un
- related material\, and an impressively unique editorial/directorial achiev
- ement.\n\nSurprisingly weaving numerous throughlines from the many dispara
- te existing narratives\, while leaving much open to the viewer’s interpr
- etation\, scene chronology floats between seemingly non sequitur\, to surp
- risingly\, quietly poignant\, depending on the viewer’s own history with
-  the city. A hyper-local\, one-of-a-kind film experience and an opportunit
- y to examine Seattle’s ever-changing landscape as seen through the camer
- a lens\, Once Upon a Time in Seattle offers a unique portal to examine our
-  city’s topography (and vibe!) of the past\, both near and distant.\n\nC
- ollide-O-Scope\, 2026\, United States\, 101 min\, in English\n\nhttps://nw
- filmforum.org/films/once-upon-time-seattle/\n\nEstimated start: 16:20
+DESCRIPTION:A perpetually living project\, Once Upon a Time in Seattle ret
+ urns to Northwest Film Forum in a revised\, expanded (and shorter!?) edit 
+ for this special encore engagement. Comprised of moments from 50 films sho
+ t in Seattle (up from 47 in the previous iteration\,) and a few irresistib
+ le facsimiles\, Once Upon a Time in Seattle is part love letter\, part loo
+ ny action adventure\, and part free-associative meditation on the transien
+ ce of landscape in a city that has always had a complicated relationship w
+ ith honoring its past while moving swiftly (recklessly?) into the future.
+ \n\nThere is no linear narrative\, and dialogue is kept to a minimum. The 
+ city itself is both location and protagonist\, while the function of the h
+ uman characters\, or perhaps more accurately\, ciphers\, is that of a vess
+ el to move us through the city and occasionally offer loose context or com
+ ic relief.\n\nNo single existing shot or sequence is sustained longer than
+  a minute\, with most individual shots lasting less than 20 seconds\, and 
+ over half clocking in at 5 seconds or less. The result is a deceptively co
+ mplex amalgamation of wholly unrelated material\, and an impressively uniq
+ ue editorial/directorial achievement.\n\nSurprisingly weaving numerous thr
+ oughlines from the many disparate existing narratives\, while leaving much
+  open to the viewer’s interpretation\, scene chronology floats between s
+ eemingly non sequitur\, to quietly poignant\, depending on the viewer’s 
+ own history with the city.\n\nA hyper-local\, one-of-a-kind film experienc
+ e and an opportunity to examine Seattle’s ever-changing landscape as see
+ n through the camera lens\, Once Upon a Time in Seattle offers a unique po
+ rtal to examine our city’s topography (and vibe!) of the past\, both nea
+ r and distant.\n\nIf you saw the premiere in September and loved it\, come
+  see how it’s changed!\n\nCollide-O-Scope\, 2026\, United States\, 98 mi
+ n\, in English\n\nhttps://nwfilmforum.org/films/once-upon-time-seattle/\n
+ \nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -677,31 +680,34 @@ DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T210500
 DTSTAMP:20261102T030000Z
 UID:once-upon-time-seattle-2026-11-01-19:00:00-08:00
-DESCRIPTION:SPECIAL NOVEMBER 2026 EDITION! ALREADY UPDATED FROM THE SEPTEM
- BER 2026 EDITION! \n\nComprised of moments from over 40 films shot in Seat
- tle\, and a few irresistible facsimiles\, Once Upon a Time in Seattle is p
- art love letter\, part loony action adventure\, and part free-associative 
- meditation on the transience of landscape in a city that has always had a 
- complicated relationship with honoring its past while moving swiftly (reck
- lessly?) into the future.\n\nThere is no linear narrative\, and dialogue i
- s kept to a minimum. The city itself is both location and protagonist\, wh
- ile the function of the human characters\, or perhaps more accurately\, ci
- phers\, is that of a vessel to move us through the city and occasionally o
- ffer loose context or comic relief. With one exception\, no single existin
- g shot or sequence is sustained longer than a minute\, with most individua
- l shots lasting less than 20 seconds\, and over half clocking in at 5 seco
- nds or less. The result is a deceptively complex amalgamation of wholly un
- related material\, and an impressively unique editorial/directorial achiev
- ement.\n\nSurprisingly weaving numerous throughlines from the many dispara
- te existing narratives\, while leaving much open to the viewer’s interpr
- etation\, scene chronology floats between seemingly non sequitur\, to surp
- risingly\, quietly poignant\, depending on the viewer’s own history with
-  the city. A hyper-local\, one-of-a-kind film experience and an opportunit
- y to examine Seattle’s ever-changing landscape as seen through the camer
- a lens\, Once Upon a Time in Seattle offers a unique portal to examine our
-  city’s topography (and vibe!) of the past\, both near and distant.\n\nC
- ollide-O-Scope\, 2026\, United States\, 101 min\, in English\n\nhttps://nw
- filmforum.org/films/once-upon-time-seattle/\n\nEstimated start: 19:20
+DESCRIPTION:A perpetually living project\, Once Upon a Time in Seattle ret
+ urns to Northwest Film Forum in a revised\, expanded (and shorter!?) edit 
+ for this special encore engagement. Comprised of moments from 50 films sho
+ t in Seattle (up from 47 in the previous iteration\,) and a few irresistib
+ le facsimiles\, Once Upon a Time in Seattle is part love letter\, part loo
+ ny action adventure\, and part free-associative meditation on the transien
+ ce of landscape in a city that has always had a complicated relationship w
+ ith honoring its past while moving swiftly (recklessly?) into the future.
+ \n\nThere is no linear narrative\, and dialogue is kept to a minimum. The 
+ city itself is both location and protagonist\, while the function of the h
+ uman characters\, or perhaps more accurately\, ciphers\, is that of a vess
+ el to move us through the city and occasionally offer loose context or com
+ ic relief.\n\nNo single existing shot or sequence is sustained longer than
+  a minute\, with most individual shots lasting less than 20 seconds\, and 
+ over half clocking in at 5 seconds or less. The result is a deceptively co
+ mplex amalgamation of wholly unrelated material\, and an impressively uniq
+ ue editorial/directorial achievement.\n\nSurprisingly weaving numerous thr
+ oughlines from the many disparate existing narratives\, while leaving much
+  open to the viewer’s interpretation\, scene chronology floats between s
+ eemingly non sequitur\, to quietly poignant\, depending on the viewer’s 
+ own history with the city.\n\nA hyper-local\, one-of-a-kind film experienc
+ e and an opportunity to examine Seattle’s ever-changing landscape as see
+ n through the camera lens\, Once Upon a Time in Seattle offers a unique po
+ rtal to examine our city’s topography (and vibe!) of the past\, both nea
+ r and distant.\n\nIf you saw the premiere in September and loved it\, come
+  see how it’s changed!\n\nCollide-O-Scope\, 2026\, United States\, 98 mi
+ n\, in English\n\nhttps://nwfilmforum.org/films/once-upon-time-seattle/\n
+ \nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,23 +1123,20 @@ DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:True Stories (1986)
-DTSTART;TZID=America/Los_Angeles:20261008T190000
-DTEND;TZID=America/Los_Angeles:20261008T205000
-DTSTAMP:20261009T020000Z
-UID:true-stories-2026-10-08-19:00:00-07:00
-DESCRIPTION:There is perhaps no film to come out of the Reagan era that is
-  as optimistic and positive about American life than David Byrne’s True 
- Stories.\n\nInspired by absurd tabloid clippings he collected while on tou
- r with Talking Heads with the question of “what if this was all true\,
- ” Byrne managed to create a collage of average middle-American life that
-  elevates its subjects to the extraordinary. Moving between computer chip 
- plants\, mall fashion shows\, and basement Voodou rituals\, True Stories b
- ecomes the inverse of a film like David Lynch’s Blue Velvet (released th
- e same year!) in that it seeks to find the good hidden underneath the (som
- etimes) hard exterior of American life deep in the heart of Texas.\n\nDavi
- d Byrne\, United States\, 1986\, 89 min\, in English\n\nhttps://nwfilmforu
- m.org/films/true-stories/\n\nEstimated start: 19:20
+SUMMARY:The Parallax View (1974)
+DTSTART;TZID=America/Los_Angeles:20261112T190000
+DTEND;TZID=America/Los_Angeles:20261112T210500
+DTSTAMP:20261113T030000Z
+UID:the-parallax-view-2026-11-12-19:00:00-08:00
+DESCRIPTION:After a presidential candidate is assassinated\, political rep
+ orter Joe Frady begins to suspect that the mysterious Parallax Corporation
+  may be involved. As he investigates\, others who share his suspicions sta
+ rt turning up dead\, including his editor\, Bill Rintels. Eventually\, Fra
+ dy uncovers a conspiracy bigger than anyone expected and must race to prev
+ ent the corporation’s next big hit as this political thriller plays out 
+ in an explosive game of cat and mouse.\n\nAlan J. Pakula\, United States\,
+  1974\, 102 min\, in English\n\nhttps://nwfilmforum.org/films/the-parallax
+ -view/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
