@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261009T145348Z
+LAST-MODIFIED:20261010T124918Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
 DTSTART;TZID=America/Los_Angeles:20261020T180000
@@ -14,24 +14,6 @@ DESCRIPTION:The improbable life of French poet Arthur Rimbaud unfolds with
   all the shock and playfulness of his poetry.\n\nPatrick Wang\, United Sta
  tes & Canada\, 2026\, 175 min\, in English and French with English subtitl
  es\n\nhttps://nwfilmforum.org/films/a-rimbaud/\n\nEstimated start: 18:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An Autumn Afternoon (1962)
-DTSTART;TZID=America/Los_Angeles:20261009T203000
-DTEND;TZID=America/Los_Angeles:20261009T224500
-DTSTAMP:20261010T033000Z
-UID:an-autumn-afternoon-2026-10-09-20:30:00-07:00
-DESCRIPTION:The last film by Yasujiro Ozu was also his final masterpiece\,
-  a gently heartbreaking story about a man’s dignified resignation to lif
- e’s shifting currents and society’s modernization. Though the widower 
- Shuhei (frequent Ozu leading man Chishu Ryu) has been living comfortably f
- or years with his grown daughter\, a series of events leads him to accept 
- and encourage her marriage and departure from their home. As elegantly com
- posed and achingly tender as any of the Japanese master’s films\, An Aut
- umn Afternoon is one of cinema’s fondest farewells.\n\nYasujirō Ozu\, 1
- 962\, Japan\, 113 min\, in Japanese with English subtitles\n\nhttps://nwfi
- lmforum.org/films/an-autumn-afternoon/\n\nEstimated start: 20:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -149,17 +131,17 @@ DTEND;TZID=America/Los_Angeles:20261023T183500
 DTSTAMP:20261024T000000Z
 UID:begotten-4k-restoration-2026-10-23-17:00:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 17:20
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -169,17 +151,17 @@ DTEND;TZID=America/Los_Angeles:20261024T163500
 DTSTAMP:20261024T220000Z
 UID:begotten-4k-restoration-2026-10-24-15:00:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 15:20
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 15:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -189,17 +171,17 @@ DTEND;TZID=America/Los_Angeles:20261024T183500
 DTSTAMP:20261025T000000Z
 UID:begotten-4k-restoration-2026-10-24-17:00:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 17:20
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -209,17 +191,17 @@ DTEND;TZID=America/Los_Angeles:20261025T170500
 DTSTAMP:20261025T223000Z
 UID:begotten-4k-restoration-2026-10-25-15:30:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 15:50
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 15:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -229,17 +211,17 @@ DTEND;TZID=America/Los_Angeles:20261025T190500
 DTSTAMP:20261026T003000Z
 UID:begotten-4k-restoration-2026-10-25-17:30:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 17:50
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 17:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -249,17 +231,17 @@ DTEND;TZID=America/Los_Angeles:20261025T210500
 DTSTAMP:20261026T023000Z
 UID:begotten-4k-restoration-2026-10-25-19:30:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 19:50
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -269,17 +251,17 @@ DTEND;TZID=America/Los_Angeles:20261026T203500
 DTSTAMP:20261027T020000Z
 UID:begotten-4k-restoration-2026-10-26-19:00:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
- Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
- mes do to each other and to the earth. God Killing Himself tears open his 
- body and dies. Mother Earth rises from what remains and takes his seed int
- o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
- nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
- y returned to life by his mother. The Nomads destroy her too. The Robed Fi
- gures gather what remains of mother and son\, grind their bodies down\, an
- d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
- d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
- films/begotten-4k-restoration/\n\nEstimated start: 19:20
+ nal credits name three principal figures:\n\nGod Killing Himself. Mother E
+ arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
+ s do to each other and to the earth. God Killing Himself tears open his bo
+ dy and dies. Mother Earth rises from what remains and takes his seed into 
+ herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
+ o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
+ returned to life by his mother. The Nomads destroy her too. The Robed Figu
+ res gather what remains of mother and son\, grind their bodies down\, and 
+ return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
+ States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
+ lms/begotten-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,32 +1053,6 @@ DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
  vić\, 2010\, Serbia\, 104 min\, in Serbian with English Subtitles\n\nhttp
  s://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/\n
  \nEstimated start: 20:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAUMA BOND: Come and See (1985)
-DTSTART;TZID=America/Los_Angeles:20261009T200000
-DTEND;TZID=America/Los_Angeles:20261009T224500
-DTSTAMP:20261010T030000Z
-UID:trauma-bond-come-and-see-2026-10-09-20:00:00-07:00
-DESCRIPTION:This Halloween series is co-presented by Monday Mourning and S
- carecrow Video\, where every ticket directly benefits the world’s larges
- t physical media archive\, so no romance\, no comedy\, not even New French
-  Extremity\, is lost to time. Each Trauma Bond screening features a live D
- rag pre-show with Miss Monday.\n\nThis widely acclaimed film from Soviet d
- irector Elem Klimov is a stunning\, senses-shattering plunge into the dehu
- manizing horrors of war. As Nazi forces encroach on his small village in p
- resent-day Belarus\, teenage Flyora (Aleksei Kravchenko\, in one of the sc
- reen’s most searing depictions of anguish since Renée Falconetti’s Jo
- an of Arc) eagerly joins the Soviet resistance. Rather than the adventure 
- and glory he envisioned\, what he finds is a waking nightmare of unimagina
- ble carnage and cruelty—rendered with a feverish\, otherworldly intensit
- y by Klimov’s subjective camerawork and expressionistic sound design. Ne
- arly suppressed by Soviet censors who took eight years to approve its scri
- pt\, Come and See is perhaps the most visceral\, impossible-to-forget anti
- war film ever made.\n\nElem Klimov\, 1985\, Soviet Union\, 142 min\, in Ru
- ssian and German with English Subtitles\n\nhttps://nwfilmforum.org/films/t
- rauma-bond-come-and-see/\n\nEstimated start: 20:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
