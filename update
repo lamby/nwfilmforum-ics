@@ -6,7 +6,6 @@ import datetime
 import json
 import logging
 import re
-import pprint
 
 import click
 import icalendar
@@ -34,9 +33,11 @@ class NWFilmForumICS:
     LOCAL_TIMEZONE = pytz.timezone("America/Los_Angeles")
     BASE_URL = "https://nwfilmforum.org/calendar/?start="
 
+    UNKNOWN_YEAR = "????"
+
     def __init__(self):
         self.session = requests.Session()
-        self.executor = ThreadPoolExecutor(max_workers=4)
+        self.executor = ThreadPoolExecutor(max_workers=5)
 
         self.film_urls = set()
         self.films = []
@@ -48,7 +49,7 @@ class NWFilmForumICS:
         logging.info(f"Found {len(self.film_urls)} total films")
 
         # Populate film info
-        list(self.executor.map(self.populate_film_info, self.film_urls))
+        list(self.executor.map(self.populate_film_info, sorted(self.film_urls)))
 
         ics = self.get_ics()
         with open(f"ics/nwfilmforum.ics", "w") as f:
@@ -66,7 +67,12 @@ class NWFilmForumICS:
         soup = BeautifulSoup(r.content, "html.parser")
 
         for elem in soup.select("a[class=calendar__item__link]"):
-            self.film_urls.add(elem.attrs["href"])
+            url = elem.attrs["href"]
+
+            if url.endswith("-shorts/"):
+                continue
+
+            self.film_urls.add(url)
 
     def populate_film_info(self, url):
         slug = url.split("/")[-2]
@@ -87,10 +93,13 @@ class NWFilmForumICS:
         try:
             about_elem = soup.find("h2", string="About").parent
         except AttributeError:
-            logging.warning(f"Ignoring {url} as could not parse")
+            logging.warning(f"Ignoring {url} as could not parse 'About' section")
             return
 
-        data["brief"] = about_elem.find_all("p")[0].get_text().strip("()")
+        try:
+            data["brief"] = about_elem.find_all("p")[0].get_text().strip("()")
+        except IndexError:
+            data["brief"] = about_elem.find_all("div")[0].get_text().strip("()")
 
         about = [x.get_text() for x in about_elem.find_all("p")[1:]]
         about = [x for x in about if not x.startswith("Synopsis courtesy of ")]
@@ -109,15 +118,17 @@ class NWFilmForumICS:
                 data["year"] = int(m.group(0))
 
             # Duration
-            m = re.match(r"^(\d+)h(?: (\d+)m)?$", x.get_text())
+            m = re.match(r"^\s*(?:(\d+)h)?\s*(?:(\d+)m)?$", x.get_text())
             if m is not None:
-                hours = int(m.group(1))
+                hours = int(m.group(1) or 0)
                 minutes = int(m.group(2) or 0)
                 data["duration"] = (hours * 60) + minutes
 
         if "duration" not in data:
             logging.warning(f"Ignoring {url} as could not parse duration")
             return
+
+        data.setdefault("year", self.UNKNOWN_YEAR)
 
         self.films.append(data)
 
@@ -154,7 +165,7 @@ class NWFilmForumICS:
 
                 # Summary
                 summary = film["title"]
-                if film["year"] < datetime.date.today().year - 2:
+                if film["year"] != self.UNKNOWN_YEAR and film["year"] < datetime.date.today().year - 2:
                     summary = f"{summary} ({film['year']})"
                 event.add("summary", summary)
 
