@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261019T141453Z
+LAST-MODIFIED:20261020T150621Z
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud
 DTSTART;TZID=America/Los_Angeles:20261020T180000
@@ -1366,32 +1366,6 @@ DESCRIPTION:From November 30th to December 3rd 1999\, tens of thousands of
  is now defined by US failure to address climate change and increasing stat
  e aggression. \n\nIan Bell\, 2025\, United States\, 100 min\, in English\n
  \nhttps://nwfilmforum.org/films/wto-99/\n\nEstimated start: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Moves America
-DTSTART;TZID=America/Los_Angeles:20261019T190000
-DTEND;TZID=America/Los_Angeles:20261019T205000
-DTSTAMP:20261020T020000Z
-UID:who-moves-america-2026-10-19-19:00:00-07:00
-DESCRIPTION:As the world’s largest package delivery company\, UPS moves 
- millions of packages across more than 200 countries and territories each d
- ay – and its workforce holds the power to bring that machine to a halt. 
- Who Moves America follows a UPS driver in California casting his first str
- ike vote\, a Teamster in New York who walked the picket line during the hi
- storic 1997 strike\, and a warehouse worker in Kentucky balancing night sh
- ifts with community college\, weighing whether she can afford to say no\, 
- as well as access to the General President of the International Brotherhoo
- d of Teamsters\, Sean O’Brien. As they and their co-workers organize\, a
- rgue\, and campaign across the country\, the film builds toward a single\,
-  high-stakes vote: accept the deal\, or risk everything for a strike that 
- could reshape the American economy. Through intimate access and on-the-gro
- und storytelling\, Who Moves America reveals the human stories behind the 
- single largest collective bargaining agreement in North America and explor
- es the power and complexity of collective action in modern America.\n\nYae
- l Bridge\, United States\, 2026\, 87 min\, in English\, German\, Italian\,
-  and French with English subtitles\n\nhttps://nwfilmforum.org/films/who-mo
- ves-america/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
