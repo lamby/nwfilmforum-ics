@@ -3,19 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261020T150621Z
-BEGIN:VEVENT
-SUMMARY:A. Rimbaud
-DTSTART;TZID=America/Los_Angeles:20261020T180000
-DTEND;TZID=America/Los_Angeles:20261020T211500
-DTSTAMP:20261021T010000Z
-UID:a-rimbaud-2026-10-20-18:00:00-07:00
-DESCRIPTION:The improbable life of French poet Arthur Rimbaud unfolds with
-  all the shock and playfulness of his poetry.\n\nPatrick Wang\, United Sta
- tes & Canada\, 2026\, 175 min\, in English and French with English subtitl
- es\n\nhttps://nwfilmforum.org/films/a-rimbaud/\n\nEstimated start: 18:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
+LAST-MODIFIED:20261021T150557Z
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
 DTSTART;TZID=America/Los_Angeles:20261023T170000
@@ -437,9 +425,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -471,9 +459,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -505,9 +493,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -539,9 +527,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -573,9 +561,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -607,9 +595,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -641,9 +629,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1369,32 +1357,6 @@ DESCRIPTION:From November 30th to December 3rd 1999\, tens of thousands of
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Who Moves America
-DTSTART;TZID=America/Los_Angeles:20261020T190000
-DTEND;TZID=America/Los_Angeles:20261020T205000
-DTSTAMP:20261021T020000Z
-UID:who-moves-america-2026-10-20-19:00:00-07:00
-DESCRIPTION:As the world’s largest package delivery company\, UPS moves 
- millions of packages across more than 200 countries and territories each d
- ay – and its workforce holds the power to bring that machine to a halt. 
- Who Moves America follows a UPS driver in California casting his first str
- ike vote\, a Teamster in New York who walked the picket line during the hi
- storic 1997 strike\, and a warehouse worker in Kentucky balancing night sh
- ifts with community college\, weighing whether she can afford to say no\, 
- as well as access to the General President of the International Brotherhoo
- d of Teamsters\, Sean O’Brien. As they and their co-workers organize\, a
- rgue\, and campaign across the country\, the film builds toward a single\,
-  high-stakes vote: accept the deal\, or risk everything for a strike that 
- could reshape the American economy. Through intimate access and on-the-gro
- und storytelling\, Who Moves America reveals the human stories behind the 
- single largest collective bargaining agreement in North America and explor
- es the power and complexity of collective action in modern America.\n\nYae
- l Bridge\, United States\, 2026\, 87 min\, in English\, German\, Italian\,
-  and French with English subtitles\n\nhttps://nwfilmforum.org/films/who-mo
- ves-america/\n\nEstimated start: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:You Sorta Know It's Gonna End
 DTSTART;TZID=America/Los_Angeles:20261115T163000
 DTEND;TZID=America/Los_Angeles:20261115T175500
@@ -1613,12 +1575,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1640,12 +1602,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 17:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1667,12 +1629,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 16:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1694,12 +1656,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1721,12 +1683,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1748,12 +1710,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
