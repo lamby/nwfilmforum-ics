@@ -3,27 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261026T144238Z
-BEGIN:VEVENT
-SUMMARY:Begotten (1989)
-DTSTART;TZID=America/Los_Angeles:20261026T190000
-DTEND;TZID=America/Los_Angeles:20261026T203500
-DTSTAMP:20261027T020000Z
-UID:begotten-4k-restoration-2026-10-26-19:00:00-07:00
-DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself. Mother E
- arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
- s do to each other and to the earth. God Killing Himself tears open his bo
- dy and dies. Mother Earth rises from what remains and takes his seed into 
- herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
- o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
- returned to life by his mother. The Nomads destroy her too. The Robed Figu
- res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
- States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
- lms/begotten-4k-restoration/\n\nEstimated start: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
+LAST-MODIFIED:20261027T130610Z
 BEGIN:VEVENT
 SUMMARY:Begotten (1989)
 DTSTART;TZID=America/Los_Angeles:20261028T190000
@@ -31,17 +11,17 @@ DTEND;TZID=America/Los_Angeles:20261028T203500
 DTSTAMP:20261029T020000Z
 UID:begotten-4k-restoration-2026-10-28-19:00:00-07:00
 DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself. Mother E
- arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
- s do to each other and to the earth. God Killing Himself tears open his bo
- dy and dies. Mother Earth rises from what remains and takes his seed into 
- herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
- o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
- returned to life by his mother. The Nomads destroy her too. The Robed Figu
- res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
- States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
- lms/begotten-4k-restoration/\n\nEstimated start: 19:20
+ nal credits name three principal figures:\n\nGod Killing Himself.\nMother 
+ Earth.\nSon of Earth — Flesh on Bone\n\nThe entire film is what those na
+ mes do to each other and to the earth. God Killing Himself tears open his 
+ body and dies. Mother Earth rises from what remains and takes his seed int
+ o herself. She gives birth to Son of Earth — Flesh on Bone. He is cast i
+ nto a barren world\, seized by the Nomads\, tortured\, killed\, and briefl
+ y returned to life by his mother. The Nomads destroy her too. The Robed Fi
+ gures gather what remains of mother and son\, grind their bodies down\, an
+ d return them to the soil. The ground flowers.\n\nE. Elias Merhige\, Unite
+ d States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/
+ films/begotten-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -690,31 +670,6 @@ DESCRIPTION:POLAROID by Joey Greene: A young man is thrust into a terrifyi
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Staff Selects - The Daytrippers (1996)
-DTSTART;TZID=America/Los_Angeles:20261026T193000
-DTEND;TZID=America/Los_Angeles:20261026T212000
-DTSTAMP:20261027T023000Z
-UID:staff-selects-the-daytrippers-2026-10-26-19:30:00-07:00
-DESCRIPTION:With its droll humor and bittersweet emotional heft\, the feat
- ure debut of writer-director Greg Mottola announced the arrival of an unas
- sumingly sharp-witted new talent on the 1990s indie film scene. When she d
- iscovers a love letter written to her husband (Stanley Tucci) by an unknow
- n paramour\, the distraught Eliza (Hope Davis) turns to her tight-knit Lon
- g Island family for advice. Soon the entire clan—strong-willed mom (Anne
-  Meara)\, taciturn dad (Pat McNamara)\, and jaded sister (Parker Posey) wi
- th pretentious boyfriend (Liev Schreiber) in tow—has squeezed into a sta
- tion wagon and headed into Manhattan to find out the truth\, kicking off a
-  one-crazy-day odyssey full of unexpected detours and life-changing revela
- tions. Performed with deadpan virtuosity by a top-flight ensemble cast\, T
- he Daytrippers is a wry and piercing look at family bonds stretched to the
-  breaking point.\n\nScreening as a part of our quarterly Staff Selects ser
- ies! This film was chosen and presented by Camille Hermida-Fuentes\, our D
- irector of Operations! \n\nGreg Mottola\, 1996\, Canada\, 87 min\, in Engl
- ish\n\nhttps://nwfilmforum.org/films/staff-selects-the-daytrippers/\n\nEst
- imated start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Parallax View (1974)
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T210500
@@ -976,6 +931,29 @@ DESCRIPTION:Sandrine Bonnaire won the Best Actress César for her portraya
   the top prize at the Venice Film Festival.\n\nAgnès Varda\, France\, 198
  5\, 105 min\, in French with English subtitles\n\nhttps://nwfilmforum.org/
  films/vagabond/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Veronica Project Space Presents DESSILLER LES YEUX: Four by Jean V
+ igo
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T220500
+DTSTAMP:20261114T030000Z
+UID:veronica-project-space-presents-four-by-jean-vigo-2026-11-13-19:00:00-
+ 08:00
+DESCRIPTION:In his brief 29 years\, Vigo established a cinema of poetic re
+ alism fusing humanistic stories with surreal sequences that ooze of craft.
+  While divisive in his time\, Vigo’s work gained a resurgence of interes
+ t through posthumous praise from critics\, including his daughter Luce\, t
+ hat deeply influenced the French New Wave movement.\n\nThe four films in t
+ his presentation (a mix of documentary and narrative) are warm and surpris
+ ingly innovative offerings to the art of cinema that remain timelessly imp
+ actful to audiences and filmmakers nearly a century onward.\n\nFriday\, No
+ vember 13\, 2026\, 7pm\n165 min.\nFree admission for this program.\n\nImag
+ es\, films\, and individual synopses provided by Janus Films. \n\nVeronica
+  Project Space is pleased to present the complete filmography of the inimi
+ table Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-p
+ resents-four-by-jean-vigo/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
