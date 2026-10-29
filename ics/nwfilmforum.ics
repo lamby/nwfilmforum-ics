@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261028T141009Z
+LAST-MODIFIED:20261029T154035Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -486,26 +486,6 @@ DESCRIPTION:The 2026 Sundance Film Festival Short Film Tour provides a cur
  ng titles. This 99-minute program offers a mix of stories that highlight b
  old perspectives and next-gen storytellers.\n\nhttps://nwfilmforum.org/fil
  ms/2026-sundance-film-festival-short-film-tour/\n\nEstimated start: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Begotten (1989)
-DTSTART;TZID=America/Los_Angeles:20261028T190000
-DTEND;TZID=America/Los_Angeles:20261028T203500
-DTSTAMP:20261029T020000Z
-UID:begotten-4k-restoration-2026-10-28-19:00:00-07:00
-DESCRIPTION:“Begotten” has no characters in the ordinary sense. Its fi
- nal credits name three principal figures:\n\nGod Killing Himself. Mother E
- arth. Son of Earth — Flesh on Bone\n\nThe entire film is what those name
- s do to each other and to the earth. God Killing Himself tears open his bo
- dy and dies. Mother Earth rises from what remains and takes his seed into 
- herself. She gives birth to Son of Earth — Flesh on Bone. He is cast int
- o a barren world\, seized by the Nomads\, tortured\, killed\, and briefly 
- returned to life by his mother. The Nomads destroy her too. The Robed Figu
- res gather what remains of mother and son\, grind their bodies down\, and 
- return them to the soil. The ground flowers.\n\nE. Elias Merhige\, United 
- States\, 1989\, 72 min\, English intertitles\n\nhttps://nwfilmforum.org/fi
- lms/begotten-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
