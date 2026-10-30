@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261029T154035Z
+LAST-MODIFIED:20261030T144322Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -657,6 +657,60 @@ DESCRIPTION:Max (co-writer Guinevere Turner) a young\, lesbian\, college s
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Bola Negra
+DTSTART;TZID=America/Los_Angeles:20261123T180000
+DTEND;TZID=America/Los_Angeles:20261123T210000
+DTSTAMP:20261124T020000Z
+UID:la-bola-negra-2026-11-23-18:00:00-08:00
+DESCRIPTION:From Cannes-winning directors Javier Calvo and Javier Ambrossi
+  — popularly known as Los Javis — La Bola Negra follows three generati
+ ons of men across pivotal moments in Spanish history\, bound by pain\, des
+ ire\, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain.
+  Sebastián (Guitarricadelafuente) finds connection across enemy lines. An
+ d Alberto (Carlos González) uncovers a long-buried family secret — one 
+ that finally gives voice to truths the past tried to erase.\n\nJavier Ambr
+ ossi & Javier Calvo\, Spain\, 2026\, 159 min\, in English and Spanish with
+  English subtitles\n\nhttps://nwfilmforum.org/films/la-bola-negra/\n\nEsti
+ mated start: 18:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bola Negra
+DTSTART;TZID=America/Los_Angeles:20261124T180000
+DTEND;TZID=America/Los_Angeles:20261124T210000
+DTSTAMP:20261125T020000Z
+UID:la-bola-negra-2026-11-24-18:00:00-08:00
+DESCRIPTION:From Cannes-winning directors Javier Calvo and Javier Ambrossi
+  — popularly known as Los Javis — La Bola Negra follows three generati
+ ons of men across pivotal moments in Spanish history\, bound by pain\, des
+ ire\, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain.
+  Sebastián (Guitarricadelafuente) finds connection across enemy lines. An
+ d Alberto (Carlos González) uncovers a long-buried family secret — one 
+ that finally gives voice to truths the past tried to erase.\n\nJavier Ambr
+ ossi & Javier Calvo\, Spain\, 2026\, 159 min\, in English and Spanish with
+  English subtitles\n\nhttps://nwfilmforum.org/films/la-bola-negra/\n\nEsti
+ mated start: 18:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bola Negra
+DTSTART;TZID=America/Los_Angeles:20261125T180000
+DTEND;TZID=America/Los_Angeles:20261125T210000
+DTSTAMP:20261126T020000Z
+UID:la-bola-negra-2026-11-25-18:00:00-08:00
+DESCRIPTION:From Cannes-winning directors Javier Calvo and Javier Ambrossi
+  — popularly known as Los Javis — La Bola Negra follows three generati
+ ons of men across pivotal moments in Spanish history\, bound by pain\, des
+ ire\, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain.
+  Sebastián (Guitarricadelafuente) finds connection across enemy lines. An
+ d Alberto (Carlos González) uncovers a long-buried family secret — one 
+ that finally gives voice to truths the past tried to erase.\n\nJavier Ambr
+ ossi & Javier Calvo\, Spain\, 2026\, 159 min\, in English and Spanish with
+  English subtitles\n\nhttps://nwfilmforum.org/films/la-bola-negra/\n\nEsti
+ mated start: 18:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Late Autumn (1960)
 DTSTART;TZID=America/Los_Angeles:20261128T160000
 DTEND;TZID=America/Los_Angeles:20261128T183000
@@ -1093,33 +1147,6 @@ DESCRIPTION:Special introduction by Bob Foster of Cinema Crazed\n\nNew Eng
  eting story of one family’s frightful unraveling in the New England wild
  erness.\n\nRobert Eggers\, 2016\, United States\, 92 min\, in English\n\nh
  ttps://nwfilmforum.org/films/sfcs-10-witch/\n\nEstimated start: 18:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle Film Society Presents Locals Only: October 2026
-DTSTART;TZID=America/Los_Angeles:20261029T190000
-DTEND;TZID=America/Los_Angeles:20261029T201000
-DTSTAMP:20261030T020000Z
-UID:seattle-film-society-presents-locals-only-october-2026-2026-10-29-19:0
- 0:00-07:00
-DESCRIPTION:POLAROID by Joey Greene: A young man is thrust into a terrifyi
- ng mystery when the Polaroid photos that he has taken reveal something tha
- t isn’t actually there. (3 Min)\n\nBEST FRIEND MATERIAL by Mel McCarthy 
- & Nathan Blanchard: A guys weekend goes wrong. (15 min)\n\nADHESION by Mar
- k Woo: A vain party clown suffocates in her own flesh-eating nightmare. (4
-  min)\n\nMOTHER OF NIGHT by Mohamed Abdullahi & Rayana Mohamed: After a se
- ries of unexplained disappearances\, a night-shift waitress investigates a
-  ghostly local myth and discovers the horror may be terrifyingly real. (13
-  Min)\n\nLOOK AT THIS FREAK by Alex Furnas: A reunion of old friends is di
- srupted by a hated roommate and something else that’s even worse. (15 Mi
- n) \n\nThis event is presented in partnership with the Northwest Film Foru
- m. Join us for a screening and Q&A with drinks to follow at Linda’s Tave
- rn! See ya at the movies!\n\nOctober is for terror! On tap this month are 
- flesh eating nightmares and unexplained disappearances\, unnerving polaroi
- ds and weekends gone wrong. Not to mention a freak you won’t be able to 
- unsee. For all the horror-heads out there\, this one’s for you:\n\nhttps
- ://nwfilmforum.org/films/seattle-film-society-presents-locals-only-october
- -2026/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1913,12 +1940,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1940,12 +1967,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 17:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1967,12 +1994,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 16:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1994,12 +2021,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -2021,12 +2048,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -2048,12 +2075,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
