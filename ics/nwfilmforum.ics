@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261030T144322Z
+LAST-MODIFIED:20261031T153827Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -1150,6 +1150,28 @@ DESCRIPTION:Special introduction by Bob Foster of Cinema Crazed\n\nNew Eng
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Seattle LGBTQ+ Center Presents: We Were Here (2011)
+DTSTART;TZID=America/Los_Angeles:20261202T190000
+DTEND;TZID=America/Los_Angeles:20261202T205000
+DTSTAMP:20261203T030000Z
+UID:seattle-lgbtq-center-presents-we-were-here-2026-12-02-19:00:00-08:00
+DESCRIPTION:We Were Here is the first documentary to take a deep and refle
+ ctive look back at the arrival and impact of AIDS in San Francisco. It exp
+ lores how the City’s inhabitants were affected by\, and how they respond
+ ed to\, that calamitous epidemic.\n\nThough a San Francisco-based story\, 
+ We Were Here extends beyond San Francisco and beyond AIDS itself. It speak
+ s to our capacity as individuals to rise to the occasion\, and to the incr
+ edible power of a community coming together with love\, compassion\, and d
+ etermination.\n\nFilmmakers David Weissman and Bill Weber co-directed the 
+ 2001 documentary\, The Cockettes\, chronicling San Francisco’s legendary
+  theater troupe of hippies and drag queens\, 1969 – 1972. We Were Here r
+ evisits San Francisco a decade later\, as its flourishing gay community is
+  hit with an unimaginable disaster.\n\nDavid Weissman\, United States\, 20
+ 11\, 90 min\, in English\n\nhttps://nwfilmforum.org/films/seattle-lgbtq-ce
+ nter-presents-we-were-here/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Day She Returns
 DTSTART;TZID=America/Los_Angeles:20270104T193000
 DTEND;TZID=America/Los_Angeles:20270104T211500
@@ -1367,6 +1389,27 @@ DESCRIPTION:After a presidential candidate is assassinated\, political rep
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Three Dollar Bill Cinema Presents: Two Eyes (2020)
+DTSTART;TZID=America/Los_Angeles:20261108T180000
+DTEND;TZID=America/Los_Angeles:20261108T195500
+DTSTAMP:20261109T020000Z
+UID:three-dollar-bill-cinema-presents-two-eyes-2026-11-08-18:00:00-08:00
+DESCRIPTION:Two Eyes is a cinematic triptych set in three distinct time pe
+ riods…\n\n1868 MONTANA – A painter seeking inspiration for his art exp
+ lores the landscape with his Native American guide and finds his conceptio
+ ns of himself and the\nworld around him challenged.\n\n1979 CALIFORNIA –
+  The mundane existence of a questioning youth is given a shot of adrenalin
+ e by the arrival of a new exchange student who envelopes them both with he
+ r lust for life.\n\n2023 WYOMING – A trans teenager works through his se
+ lf-destructive feelings with his perceptive\, nonbinary trans therapist.\n
+ \nThe three seemingly unrelated storylines are interwoven into a single\, 
+ powerful narrative that reveals the eternal connection between all of the 
+ main characters.\n\nTravis Fine\, United States\, 2020\, 95 min\, in Engli
+ sh\n\nhttps://nwfilmforum.org/films/three-dollar-bill-cinema-presents-two-
+ eyes/\n\nEstimated start: 18:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tokyo Story (1953)
 DTSTART;TZID=America/Los_Angeles:20261128T153000
 DTEND;TZID=America/Los_Angeles:20261128T181000
@@ -1462,6 +1505,35 @@ DESCRIPTION:A boxing match in Brooklyn\; life in postwar Bosnia and Herzeg
  rld.\n\nKirsten Johnson\, United States\, 2016\, 102 min\, in English\, Bo
  snian\, Farsi\, Hausa\, and Arabic with English subtitles\n\nhttps://nwfi
  lmforum.org/films/truth-to-fiction-cameraperson/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Truth To Fiction: Seeds
+DTSTART;TZID=America/Los_Angeles:20270107T190000
+DTEND;TZID=America/Los_Angeles:20270107T212500
+DTSTAMP:20270108T030000Z
+UID:truth-to-fiction-seeds-2027-01-07-19:00:00-08:00
+DESCRIPTION:Interweaving the stories of three Black generational farmers t
+ o create a collective and intimate portrait of farming today\, SEEDS is a 
+ moving and powerful exploration of their lives\, joys and struggles as wel
+ l as the fragility of legacy and owning land.\n\nWith remarkable intimacy
+ \, the film documents their everyday lives – cotton harvesting\, chasing
+  cows\, dealing with broken machinery and financial precarities. The camer
+ a relishes simple moments – conversations through car windows\, candy fr
+ om grandma’s purse as it captures moments of warmth\, joy and fulfillmen
+ t – turning them into striking vignettes that honor the families’ conn
+ ection to the land and each other.\n\nBut the sobering reality underscores
+  the urgency of their story. Black farmers owned 16 million acres of land 
+ in 1910 but today\, that number has dwindled to a fraction. The farmers in
+  the community struggle to access funding that white farmers nearby seem t
+ o secure with ease.\n\nThrough these inter-generational stories\, we see t
+ he cycles of inequity and embedded racism that persist to this present day
+ \, and the signs of hope and renewal with younger generations of farmers. 
+ SEEDS emphasizes how human beings are innately tied to our foundational ro
+ ots\, roots which carry our ancestral memories – somber\, bitter\, and s
+ weet.\n\nBrittany Shyne\, United States\, 2025\, 123 min\, in English\n\nh
+ ttps://nwfilmforum.org/films/truth-to-fiction-seeds/\n\nEstimated start: 1
+ 9:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
