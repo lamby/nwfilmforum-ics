@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261106T151042Z
+LAST-MODIFIED:20261107T170037Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -491,23 +491,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage
-DTSTART;TZID=America/Los_Angeles:20261106T183000
-DTEND;TZID=America/Los_Angeles:20261106T210000
-DTSTAMP:20261107T023000Z
-UID:castration-movie-chapter-iii-ii-junior-ghosts-premorphic-drift-a-fragm
- entary-passage-2026-11-06-18:30:00-08:00
-DESCRIPTION:Castration Movie is a multi-part postmodern epic by visionary 
- auteur Louise Weard. In Chapter iii. Junior Ghosts—Premorphic Drift\, Iz
- zy (Avalon Fast) seeks out everything in her power to stop her partner (He
- nri Gillespi) from transitioning.\n\nLouise Weard\, Canada\, 2026\, 126 mi
- n\, in English\n\nhttps://nwfilmforum.org/films/castration-movie-chapter-i
- ii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/\n\nEstimated s
- tart: 18:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
-  fragmentary passage
 DTSTART;TZID=America/Los_Angeles:20261107T153000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 DTSTAMP:20261107T233000Z
@@ -571,6 +554,20 @@ DESCRIPTION:Castration Movie is a multi-part postmodern epic by visionary
  n\, in English\n\nhttps://nwfilmforum.org/films/castration-movie-chapter-i
  ii-ii-junior-ghosts-premorphic-drift-a-fragmentary-passage/\n\nEstimated s
  tart: 18:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie ⅗ Year of the Hyaena
+DTSTART;TZID=America/Los_Angeles:20261212T150000
+DTEND;TZID=America/Los_Angeles:20261212T212000
+DTSTAMP:20261212T230000Z
+UID:castration-movie-year-of-the-hyaena-2026-12-12-15:00:00-08:00
+DESCRIPTION:Castration Movie is a multi-part postmodern epic by visionary 
+ auteur Louise Weard.\n\n⅗ Year of the Hyaena contains part of one chapte
+ r. In Chapter iii. Chastity No Exit Virtue Cuck\, Michaela (Louise Weard) 
+ tries to be a good person.\n\nLouise Weard\, Canada\, 2026\, 159 min\, in 
+ English\n\nhttps://nwfilmforum.org/films/castration-movie-year-of-the-hyae
+ na/\n\nEstimated start: 15:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1256,11 +1253,11 @@ UID:three-dollar-bill-cinema-presents-two-eyes-2026-11-08-18:00:00-08:00
 DESCRIPTION:Two Eyes is a cinematic triptych set in three distinct time pe
  riods…\n\n1868 MONTANA – A painter seeking inspiration for his art exp
  lores the landscape with his Native American guide and finds his conceptio
- ns of himself and the\nworld around him challenged.\n\n1979 CALIFORNIA –
-  The mundane existence of a questioning youth is given a shot of adrenalin
- e by the arrival of a new exchange student who envelopes them both with he
- r lust for life.\n\n2023 WYOMING – A trans teenager works through his se
- lf-destructive feelings with his perceptive\, nonbinary trans therapist.\n
+ ns of himself and the world around him challenged.\n\n1979 CALIFORNIA – 
+ The mundane existence of a questioning youth is given a shot of adrenaline
+  by the arrival of a new exchange student who envelopes them both with her
+  lust for life.\n\n2023 WYOMING – A trans teenager works through his sel
+ f-destructive feelings with his perceptive\, nonbinary trans therapist.\n
  \nThe three seemingly unrelated storylines are interwoven into a single\, 
  powerful narrative that reveals the eternal connection between all of the 
  main characters.\n\nTravis Fine\, United States\, 2020\, 95 min\, in Engli
@@ -1538,11 +1535,11 @@ DESCRIPTION:In his brief 29 years\, Vigo established a cinema of poetic re
  his presentation (a mix of documentary and narrative) are warm and surpris
  ingly innovative offerings to the art of cinema that remain timelessly imp
  actful to audiences and filmmakers nearly a century onward.\n\nFriday\, No
- vember 13\, 2026\, 7pm\n165 min.\nFree admission for this program.\n\nImag
- es\, films\, and individual synopses provided by Janus Films. \n\nVeronica
-  Project Space is pleased to present the complete filmography of the inimi
- table Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-p
- resents-four-by-jean-vigo/\n\nEstimated start: 19:20
+ vember 13\, 2026\, 7pm 165 min. Free admission for this program.\n\nImages
+ \, films\, and individual synopses provided by Janus Films. \n\nVeronica P
+ roject Space is pleased to present the complete filmography of the inimita
+ ble Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-pre
+ sents-four-by-jean-vigo/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1849,12 +1846,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1876,12 +1873,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 17:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 17:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1903,12 +1900,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 16:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,12 +1927,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1957,12 +1954,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1984,12 +1981,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
