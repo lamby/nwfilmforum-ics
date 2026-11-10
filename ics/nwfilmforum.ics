@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261109T165413Z
+LAST-MODIFIED:20261110T163040Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -1381,23 +1381,6 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vagabond (1985)
-DTSTART;TZID=America/Los_Angeles:20261109T190000
-DTEND;TZID=America/Los_Angeles:20261109T210500
-DTSTAMP:20261110T030000Z
-UID:vagabond-2026-11-09-19:00:00-08:00
-DESCRIPTION:Sandrine Bonnaire won the Best Actress César for her portraya
- l of the defiant young drifter Mona\, found frozen to death in a ditch at 
- the beginning of Vagabond. Agnès Varda pieces together Mona’s story thr
- ough flashbacks told by those who encountered her (played by a largely non
- professional cast)\, producing a splintered portrait of an enigmatic woman
- . With its sparse\, poetic imagery\, Vagabond is a stunner\, and won Varda
-  the top prize at the Venice Film Festival.\n\nAgnès Varda\, France\, 198
- 5\, 105 min\, in French with English subtitles\n\nhttps://nwfilmforum.org/
- films/vagabond/\n\nEstimated start: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vagabond (1985)
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T210500
 DTSTAMP:20261111T030000Z
@@ -1429,11 +1412,11 @@ DESCRIPTION:In his brief 29 years\, Vigo established a cinema of poetic re
  his presentation (a mix of documentary and narrative) are warm and surpris
  ingly innovative offerings to the art of cinema that remain timelessly imp
  actful to audiences and filmmakers nearly a century onward.\n\nFriday\, No
- vember 13\, 2026\, 7pm 165 min. Free admission for this program.\n\nImages
- \, films\, and individual synopses provided by Janus Films. \n\nVeronica P
- roject Space is pleased to present the complete filmography of the inimita
- ble Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-pre
- sents-four-by-jean-vigo/\n\nEstimated start: 19:20
+ vember 13\, 2026\, 7pm\n165 min.\nFree admission for this program.\n\nImag
+ es\, films\, and individual synopses provided by Janus Films. \n\nVeronica
+  Project Space is pleased to present the complete filmography of the inimi
+ table Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-p
+ resents-four-by-jean-vigo/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
