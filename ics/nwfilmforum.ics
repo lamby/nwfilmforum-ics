@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261112T153501Z
+LAST-MODIFIED:20261114T174038Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -489,6 +489,42 @@ DESCRIPTION:The 2026 Sundance Film Festival Short Film Tour provides a cur
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Can't Stop The Music (1980)
+DTSTART;TZID=America/Los_Angeles:20261210T190000
+DTEND;TZID=America/Los_Angeles:20261210T212500
+DTSTAMP:20261211T030000Z
+UID:cant-stop-the-music-2026-12-10-19:00:00-08:00
+DESCRIPTION:We know the classic hit (“hits” if you’re really in the 
+ know)\, but do we know how The Village People actually became the icons th
+ ey’re known to be? In Nancy Walker’s very loose biopic\, we see the gr
+ adual and fantastic transformation of a dream into a well-dressed (and hig
+ h energy) reality. Can’t Stop The Music\, while filled to the brim with 
+ nonsense that only the American 80s could produce\, is a landmark of Ameri
+ can pop music cinema\, celebrating macho men\, milkshakes\, and fearless f
+ ashion.\n\nNancy Walker\, United States\, 1980\, 124 min\, in English\n\nh
+ ttps://nwfilmforum.org/films/cant-stop-the-music/\n\nEstimated start: 19:2
+ 0
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Can't Stop The Music (1980)
+DTSTART;TZID=America/Los_Angeles:20261212T163000
+DTEND;TZID=America/Los_Angeles:20261212T185500
+DTSTAMP:20261213T003000Z
+UID:cant-stop-the-music-2026-12-12-16:30:00-08:00
+DESCRIPTION:We know the classic hit (“hits” if you’re really in the 
+ know)\, but do we know how The Village People actually became the icons th
+ ey’re known to be? In Nancy Walker’s very loose biopic\, we see the gr
+ adual and fantastic transformation of a dream into a well-dressed (and hig
+ h energy) reality. Can’t Stop The Music\, while filled to the brim with 
+ nonsense that only the American 80s could produce\, is a landmark of Ameri
+ can pop music cinema\, celebrating macho men\, milkshakes\, and fearless f
+ ashion.\n\nNancy Walker\, United States\, 1980\, 124 min\, in English\n\nh
+ ttps://nwfilmforum.org/films/cant-stop-the-music/\n\nEstimated start: 16:5
+ 0
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castration Movie ⅗ Year of the Hyaena
 DTSTART;TZID=America/Los_Angeles:20261212T150000
 DTEND;TZID=America/Los_Angeles:20261212T212000
@@ -625,6 +661,132 @@ DESCRIPTION:The great actress and Ozu regular Setsuko Hara plays a mother
  Spring.\n\nYasujirō Ozu\, 1960\, Japan\, 128 min\, in Japanese with Engli
  sh subtitles\n\nhttps://nwfilmforum.org/films/late-autumn/\n\nEstimated st
  art: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270115T163000
+DTEND;TZID=America/Los_Angeles:20270115T175000
+DTSTAMP:20270116T003000Z
+UID:muscle-2027-01-15-16:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 16:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270115T193000
+DTEND;TZID=America/Los_Angeles:20270115T205000
+DTSTAMP:20270116T033000Z
+UID:muscle-2027-01-15-19:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270116T163000
+DTEND;TZID=America/Los_Angeles:20270116T175000
+DTSTAMP:20270117T003000Z
+UID:muscle-2027-01-16-16:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 16:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270116T193000
+DTEND;TZID=America/Los_Angeles:20270116T205000
+DTSTAMP:20270117T033000Z
+UID:muscle-2027-01-16-19:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270117T163000
+DTEND;TZID=America/Los_Angeles:20270117T175000
+DTSTAMP:20270118T003000Z
+UID:muscle-2027-01-17-16:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 16:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle (2K Restoration) (1989)
+DTSTART;TZID=America/Los_Angeles:20270117T193000
+DTEND;TZID=America/Los_Angeles:20270117T205000
+DTSTAMP:20270118T033000Z
+UID:muscle-2027-01-17-19:30:00-08:00
+DESCRIPTION:Having just been released from prison after his relationship w
+ ith sadistic bodybuilder Kitami (Simon Kunai) ended disastrously\, Ryuzaki
+  (Takeshi Itô) begins working to tie up some loose ends from before he we
+ nt in. But an obsessive longing for Kitami leads Ryuzaki into the seamy ga
+ y underworld\, both to try to find out what happened to his ex and to trac
+ k down a bootleg copy of his favorite filmmaker\, Pier Paolo Pasolini’s 
+ final and most controversial film.\n\nLegendary filmmaker Hisayasu Satô
+ ’s second gay-themed film\, Muscle (also known as Ostia: Lunatic Theater
+ ) is a classic of transgressive queer cinema that took the North American 
+ queer film festival circuit by storm in the 90s.\n\nNew 2K restoration by 
+ Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
+ with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
+ ed start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -960,6 +1122,63 @@ DESCRIPTION:We Were Here is the first documentary to take a deep and refle
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Apple (1980)
+DTSTART;TZID=America/Los_Angeles:20261207T190000
+DTEND;TZID=America/Los_Angeles:20261207T210000
+DTSTAMP:20261208T030000Z
+UID:the-apple-2026-12-07-19:00:00-08:00
+DESCRIPTION:Have you always wished that Adam and Eve had their chance to s
+ hine on America’s Got Talent? The Apple is just the movie for you! Follo
+ wing the trials and tribulations of siblings Bibi and Alphie as they navig
+ ate the deeply corrupt music industry in the distant future of 1994\, The 
+ Apple is a fable that warns us all of the dangers that await when we unque
+ stionably put stickers on our heads. Featuring sets\, costumes\, and produ
+ ctions that far surpass any other aspect of this film\, The Apple is a mus
+ ical that proves anyone can make a movie\, especially if they can blow eno
+ ugh money on everything to make it pretty.\n\nMenahem Golan\, United State
+ s & Germany\, 1980\, 97 min\, in English\n\nhttps://nwfilmforum.org/films/
+ the-apple/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apple (1980)
+DTSTART;TZID=America/Los_Angeles:20261212T193000
+DTEND;TZID=America/Los_Angeles:20261212T213000
+DTSTAMP:20261213T033000Z
+UID:the-apple-2026-12-12-19:30:00-08:00
+DESCRIPTION:Have you always wished that Adam and Eve had their chance to s
+ hine on America’s Got Talent? The Apple is just the movie for you! Follo
+ wing the trials and tribulations of siblings Bibi and Alphie as they navig
+ ate the deeply corrupt music industry in the distant future of 1994\, The 
+ Apple is a fable that warns us all of the dangers that await when we unque
+ stionably put stickers on our heads. Featuring sets\, costumes\, and produ
+ ctions that far surpass any other aspect of this film\, The Apple is a mus
+ ical that proves anyone can make a movie\, especially if they can blow eno
+ ugh money on everything to make it pretty.\n\nMenahem Golan\, United State
+ s & Germany\, 1980\, 97 min\, in English\n\nhttps://nwfilmforum.org/films/
+ the-apple/\n\nEstimated start: 19:50
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apple (1980)
+DTSTART;TZID=America/Los_Angeles:20261213T150000
+DTEND;TZID=America/Los_Angeles:20261213T170000
+DTSTAMP:20261213T230000Z
+UID:the-apple-2026-12-13-15:00:00-08:00
+DESCRIPTION:Have you always wished that Adam and Eve had their chance to s
+ hine on America’s Got Talent? The Apple is just the movie for you! Follo
+ wing the trials and tribulations of siblings Bibi and Alphie as they navig
+ ate the deeply corrupt music industry in the distant future of 1994\, The 
+ Apple is a fable that warns us all of the dangers that await when we unque
+ stionably put stickers on our heads. Featuring sets\, costumes\, and produ
+ ctions that far surpass any other aspect of this film\, The Apple is a mus
+ ical that proves anyone can make a movie\, especially if they can blow eno
+ ugh money on everything to make it pretty.\n\nMenahem Golan\, United State
+ s & Germany\, 1980\, 97 min\, in English\n\nhttps://nwfilmforum.org/films/
+ the-apple/\n\nEstimated start: 15:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Day She Returns
 DTSTART;TZID=America/Los_Angeles:20270104T193000
 DTEND;TZID=America/Los_Angeles:20270104T211500
@@ -1157,23 +1376,6 @@ DESCRIPTION:The Day She Returns follows actress Bae Jeongsu (Song Sunmi)\,
  ions\, and a gently unfolding sense of time.\n\nHong Sang-soo\, South Kore
  a\, 2026\, 84 min\, in Korean with English subtitles\n\nhttps://nwfilmforu
  m.org/films/the-day-she-returns/\n\nEstimated start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Parallax View (1974)
-DTSTART;TZID=America/Los_Angeles:20261112T190000
-DTEND;TZID=America/Los_Angeles:20261112T210500
-DTSTAMP:20261113T030000Z
-UID:the-parallax-view-2026-11-12-19:00:00-08:00
-DESCRIPTION:After a presidential candidate is assassinated\, political rep
- orter Joe Frady begins to suspect that the mysterious Parallax Corporation
-  may be involved. As he investigates\, others who share his suspicions sta
- rt turning up dead\, including his editor\, Bill Rintels. Eventually\, Fra
- dy uncovers a conspiracy bigger than anyone expected and must race to prev
- ent the corporation’s next big hit as this political thriller plays out 
- in an explosive game of cat and mouse.\n\nAlan J. Pakula\, United States\,
-  1974\, 102 min\, in English\n\nhttps://nwfilmforum.org/films/the-parallax
- -view/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1380,26 +1582,23 @@ DESCRIPTION:Robert is in headlong flight from the stifling love of the lon
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Veronica Project Space Presents DESSILLER LES YEUX: Four by Jean V
- igo
-DTSTART;TZID=America/Los_Angeles:20261113T190000
-DTEND;TZID=America/Los_Angeles:20261113T220500
-DTSTAMP:20261114T030000Z
-UID:veronica-project-space-presents-four-by-jean-vigo-2026-11-13-19:00:00-
- 08:00
-DESCRIPTION:In his brief 29 years\, Vigo established a cinema of poetic re
- alism fusing humanistic stories with surreal sequences that ooze of craft.
-  While divisive in his time\, Vigo’s work gained a resurgence of interes
- t through posthumous praise from critics\, including his daughter Luce\, t
- hat deeply influenced the French New Wave movement.\n\nThe four films in t
- his presentation (a mix of documentary and narrative) are warm and surpris
- ingly innovative offerings to the art of cinema that remain timelessly imp
- actful to audiences and filmmakers nearly a century onward.\n\nFriday\, No
- vember 13\, 2026\, 7pm 165 min. Free admission for this program.\n\nImages
- \, films\, and individual synopses provided by Janus Films. \n\nVeronica P
- roject Space is pleased to present the complete filmography of the inimita
- ble Jean Vigo.\n\nhttps://nwfilmforum.org/films/veronica-project-space-pre
- sents-four-by-jean-vigo/\n\nEstimated start: 19:20
+SUMMARY:WTF with STUFF - Fresh Kill (1994)
+DTSTART;TZID=America/Los_Angeles:20270120T190000
+DTEND;TZID=America/Los_Angeles:20270120T204000
+DTSTAMP:20270121T030000Z
+UID:wtf-with-stuff-fresh-kill-2027-01-20-19:00:00-08:00
+DESCRIPTION:A disturbingly prescient ecofeminist parable and a brain-wave-
+ scrambling cyberpunk fantasia\, the debut feature from new-media pioneer S
+ hu Lea Cheang merges a bold vision of resistance with an exuberant early-i
+ nternet aesthetic. In a dystopian-chic New York where sushi joints and tox
+ ic-waste sites exist side by side\, a lesbian couple (Sarita Choudhury and
+  Erin McMurtry) turn to the hacker underground to solve their daughter’s
+  disappearance\, in the process exposing a conspiracy involving corporate 
+ greenwashing and tainted fish. Swinging between outré satire and agitprop
+ \, FRESH KILL sounds the alarm about a capitalist system that pollutes eve
+ rything from our waterways to our bodies to our minds\n\nShu Lea Cheang\, 
+ 1994\, United Kingdom\, 79 min\, in English\n\nhttps://nwfilmforum.org/fil
+ ms/wtf-with-stuff-fresh-kill/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1485,6 +1684,57 @@ DESCRIPTION:From November 30th to December 3rd 1999\, tens of thousands of
  is now defined by US failure to address climate change and increasing stat
  e aggression. \n\nIan Bell\, 2025\, United States\, 100 min\, in English\n
  \nhttps://nwfilmforum.org/films/wto-99/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xanadu (1980)
+DTSTART;TZID=America/Los_Angeles:20261208T190000
+DTEND;TZID=America/Los_Angeles:20261208T210000
+DTSTAMP:20261209T030000Z
+UID:xanadu-2026-12-08-19:00:00-08:00
+DESCRIPTION:Struggling artist Sonny Malone (Michael Beck) is trapped in a 
+ dull job painting album covers. He is instantly attracted to Kira (Olivia 
+ Newton-John)\, an anonymous woman randomly photographed in the background 
+ of one of his assignments\, but no one is able to identify her. Visiting t
+ he auditorium where the cover was shot\, Sonny finds the mysterious beauty
+ \, an ageless Greek muse\, who encourages him to team up with old-fashione
+ d Danny McGuire (Gene Kelly) to build a roller-skating disco.\n\nRobert Gr
+ eenwald\, United States\, 1980\, 96 min\, in English\n\nhttps://nwfilmforu
+ m.org/films/xanadu/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xanadu (1980)
+DTSTART;TZID=America/Los_Angeles:20261212T140000
+DTEND;TZID=America/Los_Angeles:20261212T160000
+DTSTAMP:20261212T220000Z
+UID:xanadu-2026-12-12-14:00:00-08:00
+DESCRIPTION:Struggling artist Sonny Malone (Michael Beck) is trapped in a 
+ dull job painting album covers. He is instantly attracted to Kira (Olivia 
+ Newton-John)\, an anonymous woman randomly photographed in the background 
+ of one of his assignments\, but no one is able to identify her. Visiting t
+ he auditorium where the cover was shot\, Sonny finds the mysterious beauty
+ \, an ageless Greek muse\, who encourages him to team up with old-fashione
+ d Danny McGuire (Gene Kelly) to build a roller-skating disco.\n\nRobert Gr
+ eenwald\, United States\, 1980\, 96 min\, in English\n\nhttps://nwfilmforu
+ m.org/films/xanadu/\n\nEstimated start: 14:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xanadu (1980)
+DTSTART;TZID=America/Los_Angeles:20261213T153000
+DTEND;TZID=America/Los_Angeles:20261213T173000
+DTSTAMP:20261213T233000Z
+UID:xanadu-2026-12-13-15:30:00-08:00
+DESCRIPTION:Struggling artist Sonny Malone (Michael Beck) is trapped in a 
+ dull job painting album covers. He is instantly attracted to Kira (Olivia 
+ Newton-John)\, an anonymous woman randomly photographed in the background 
+ of one of his assignments\, but no one is able to identify her. Visiting t
+ he auditorium where the cover was shot\, Sonny finds the mysterious beauty
+ \, an ageless Greek muse\, who encourages him to team up with old-fashione
+ d Danny McGuire (Gene Kelly) to build a roller-skating disco.\n\nRobert Gr
+ eenwald\, United States\, 1980\, 96 min\, in English\n\nhttps://nwfilmforu
+ m.org/films/xanadu/\n\nEstimated start: 15:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1689,60 +1939,6 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zi
-DTSTART;TZID=America/Los_Angeles:20261112T193000
-DTEND;TZID=America/Los_Angeles:20261112T213000
-DTSTAMP:20261113T033000Z
-UID:zi-2026-11-12-19:30:00-08:00
-DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
- self meets a stranger who changes the course of her night—and possibly h
- er life. Kogonada plays with — and returns to — form in this sensitive
-  cinematic poem. Held within a stylish jaunt through the streets of Hong K
- ong\, zi is a film with soul and a wavelike confidence that commits to rec
- ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
- ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
- ling with a clever fusion of existential anxiety\, romantic misgiving\, an
- d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
- sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
- ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
- f peace. Through the igniting/smoldering embers of relationships lost/form
- ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zi
-DTSTART;TZID=America/Los_Angeles:20261113T170000
-DTEND;TZID=America/Los_Angeles:20261113T190000
-DTSTAMP:20261114T010000Z
-UID:zi-2026-11-13-17:00:00-08:00
-DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
- self meets a stranger who changes the course of her night—and possibly h
- er life. Kogonada plays with — and returns to — form in this sensitive
-  cinematic poem. Held within a stylish jaunt through the streets of Hong K
- ong\, zi is a film with soul and a wavelike confidence that commits to rec
- ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
- ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
- ling with a clever fusion of existential anxiety\, romantic misgiving\, an
- d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
- sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
- ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
- f peace. Through the igniting/smoldering embers of relationships lost/form
- ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 17:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zi
 DTSTART;TZID=America/Los_Angeles:20261115T160000
 DTEND;TZID=America/Los_Angeles:20261115T180000
 DTSTAMP:20261116T000000Z
@@ -1760,12 +1956,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 16:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 16:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1787,12 +1983,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1814,12 +2010,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:20
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1841,12 +2037,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
+ \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
+ fts what ought to be a breakout performance for the ages.”\n— Chase Hu
+ tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
+ \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
+ org/films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
