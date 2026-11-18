@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261117T163928Z
+LAST-MODIFIED:20261118T154322Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -536,21 +536,6 @@ DESCRIPTION:Castration Movie is a multi-part postmodern epic by visionary
  tries to be a good person.\n\nLouise Weard\, Canada\, 2026\, ~360 min\, in
   English\n\nhttps://nwfilmforum.org/films/castration-movie-year-of-the-hya
  ena/\n\nEstimated start: 15:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Go Fish (1994)
-DTSTART;TZID=America/Los_Angeles:20261117T190000
-DTEND;TZID=America/Los_Angeles:20261117T205000
-DTSTAMP:20261118T030000Z
-UID:go-fish-4k-restoration-2026-11-17-19:00:00-08:00
-DESCRIPTION:Max (co-writer Guinevere Turner) a young\, lesbian\, college s
- tudent living in Chicago is in aromantic dry spell. Her roommate Kia (T. W
- endy McMillan)\, sets Max up with Ely (V.S. Brodie)\, an older woman that 
- Max initially dismisses but ultimately falls for\, until it’s revealed t
- hat Ely may already be committed.\n\nRose Troche\, 1994\, United States\, 
- 88 min\, in English\n\nhttps://nwfilmforum.org/films/go-fish-4k-restoratio
- n/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1937,12 +1922,12 @@ DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future
  ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
  f peace. Through the igniting/smoldering embers of relationships lost/form
  ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.”\n— Richard Brody
- \, The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao cra
- fts what ought to be a breakout performance for the ages.”\n— Chase Hu
- tchinson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min
- \, in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.
- org/films/zi/\n\nEstimated start: 19:50
+ f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
+  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
+ s what ought to be a breakout performance for the ages.” — Chase Hutch
+ inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
+ in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
+ /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
