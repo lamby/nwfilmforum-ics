@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261118T154322Z
+LAST-MODIFIED:20261119T161913Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -248,10 +248,10 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
-DTSTART;TZID=America/Los_Angeles:20270112T193000
-DTEND;TZID=America/Los_Angeles:20270112T213000
-DTSTAMP:20270113T033000Z
-UID:2026-sundance-film-festival-short-film-tour-2027-01-12-19:30:00-08:00
+DTSTART;TZID=America/Los_Angeles:20270112T190000
+DTEND;TZID=America/Los_Angeles:20270112T210000
+DTSTAMP:20270113T030000Z
+UID:2026-sundance-film-festival-short-film-tour-2027-01-12-19:00:00-08:00
 DESCRIPTION:The 2026 Sundance Film Festival Short Film Tour provides a cur
  ated glimpse into the Festival’s selections\, highlighting the depth of 
  narrative possibilities explored in the short film format. For those who c
@@ -265,7 +265,7 @@ DESCRIPTION:The 2026 Sundance Film Festival Short Film Tour provides a cur
  films from this year’s Festival\, including three Festival Award–winni
  ng titles. This 99-minute program offers a mix of stories that highlight b
  old perspectives and next-gen storytellers.\n\nhttps://nwfilmforum.org/fil
- ms/2026-sundance-film-festival-short-film-tour/\n\nEstimated start: 19:50
+ ms/2026-sundance-film-festival-short-film-tour/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -490,6 +490,24 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Can't Stop The Music (1980)
+DTSTART;TZID=America/Los_Angeles:20261209T183000
+DTEND;TZID=America/Los_Angeles:20261209T205500
+DTSTAMP:20261210T023000Z
+UID:cant-stop-the-music-2026-12-09-18:30:00-08:00
+DESCRIPTION:We know the classic hit (“hits” if you’re really in the 
+ know)\, but do we know how The Village People actually became the icons th
+ ey’re known to be? In Nancy Walker’s very loose biopic\, we see the gr
+ adual and fantastic transformation of a dream into a well-dressed (and hig
+ h energy) reality. Can’t Stop The Music\, while filled to the brim with 
+ nonsense that only the American 80s could produce\, is a landmark of Ameri
+ can pop music cinema\, celebrating macho men\, milkshakes\, and fearless f
+ ashion.\n\nNancy Walker\, United States\, 1980\, 124 min\, in English\n\nh
+ ttps://nwfilmforum.org/films/cant-stop-the-music/\n\nEstimated start: 18:5
+ 0
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Can't Stop The Music (1980)
 DTSTART;TZID=America/Los_Angeles:20261210T190000
 DTEND;TZID=America/Los_Angeles:20261210T212500
 DTSTAMP:20261211T030000Z
@@ -522,6 +540,20 @@ DESCRIPTION:We know the classic hit (“hits” if you’re really in the
  ashion.\n\nNancy Walker\, United States\, 1980\, 124 min\, in English\n\nh
  ttps://nwfilmforum.org/films/cant-stop-the-music/\n\nEstimated start: 16:5
  0
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carol (2015)
+DTSTART;TZID=America/Los_Angeles:20261205T190000
+DTEND;TZID=America/Los_Angeles:20261205T212000
+DTSTAMP:20261206T030000Z
+UID:carol-2026-12-05-19:00:00-08:00
+DESCRIPTION:In this achingly beautiful drama\, a female department-store e
+ mployee in 1950s New York falls for a woman stuck in a loveless marriage. 
+ Unfortunately\, the latter’s husband threatens to take their child if th
+ e relationship between the two women continues.\n\nTodd Haynes\, 2015\, Un
+ ited States\, 118 min\, in English\n\nhttps://nwfilmforum.org/films/carol/
+ \n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -803,9 +835,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -837,9 +869,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -871,9 +903,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -905,9 +937,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 16:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -939,9 +971,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -973,9 +1005,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,9 +1039,9 @@ DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
  his brother’s keeper\; he feels rather than sees\, and as a consequence 
  his capacity for judging things off in the distance is limited. This bring
  s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.”\n— Charles Burnett\n\nCharles B
- urnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum
- .org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
+ ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
+ rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
+ org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1104,6 +1136,33 @@ DESCRIPTION:We Were Here is the first documentary to take a deep and refle
   hit with an unimaginable disaster.\n\nDavid Weissman\, United States\, 20
  11\, 90 min\, in English\n\nhttps://nwfilmforum.org/films/seattle-lgbtq-ce
  nter-presents-we-were-here/\n\nEstimated start: 19:20
+LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Singles (1992)
+DTSTART;TZID=America/Los_Angeles:20270126T190000
+DTEND;TZID=America/Los_Angeles:20270126T210000
+DTSTAMP:20270127T030000Z
+UID:singles-2027-01-26-19:00:00-08:00
+DESCRIPTION:Set amidst the burgeoning Seattle alternative music scene of t
+ he early Nineties\, Singles follows a group of twentysomethings as they tr
+ y to find love and try to come to terms with their passage into adulthood.
+  Arranged as an episodic comedy\, the film follows a group of friends who 
+ live in the same apartment building and hang out at the same coffee shop.
+ \n\nThe central couple is Steve Dunne (Campbell Scott) and Linda Powell (K
+ yra Sedgwick)\, a pair who meet at an Alice In Chains concert and eventual
+ ly fall in love. Singles follows the tumultuous relationship between Steve
+  and Linda and their friendship with Janet Livermore (Bridget Fonda)\, who
+  is trying to win the affection of grunge-rocker Cliff Poncier (Matt Dillo
+ n).\n\nThe film also has a number of cameos\, including actors Eric Stoltz
+ \, Tom Skerritt\, Peter Horton\, director Tim Burton and the film’s auth
+ or/director\, Cameron Crowe. From the musical side of the fence\, Singles 
+ features appearances by Sub Pop executive Bruce Pavitt\, musicians Chris C
+ ornell (Soundgarden)\, Pat DiNizio (Smithereens)\, Tad (Tad)\, and Pearl J
+ am’s Eddie Vedder\, Jeff Ament\, and Stone Gossard\, who play Dillon’s
+  backing band\, Citizen Dick.\n\nCameron Crowe\, United States\, 1992\, 99
+  min\, in English\n\nhttps://nwfilmforum.org/films/singles/\n\nEstimated s
+ tart: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
@@ -1672,29 +1731,6 @@ DESCRIPTION:A disturbingly prescient ecofeminist parable and a brain-wave-
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WTF with STUFF - Kokomo City (2023)
-DTSTART;TZID=America/Los_Angeles:20261118T190000
-DTEND;TZID=America/Los_Angeles:20261118T203500
-DTSTAMP:20261119T030000Z
-UID:wtf-with-stuff-kokomo-city-2026-11-18-19:00:00-08:00
-DESCRIPTION:In the wildly entertaining and refreshingly unfiltered documen
- tary Kokomo City\, filmmaker D. Smith passes the mic to four Black transge
- nder sex workers in Atlanta and New York City – Daniella Carter\, Koko D
- a Doll\, Liyah Mitchell\, and Dominique Silver – who unapologetically br
- eak down the walls of their profession. Holding nothing back\, the film vi
- brates with energy\, sex\, challenge\, and hard-earned wisdom.\n\nThis vit
- al portrait\, edited and shot by Smith in bold black and white\, is her fe
- ature directorial debut. A two-time Grammy-nominated producer\, singer\, a
- nd songwriter\, Smith made history as the first trans woman cast on a prim
- etime unscripted TV show. Executive produced by Lena Waithe\, KOKOMO CITY 
- won the Sundance Film Festival’s NEXT Innovator Award and NEXT Audience 
- Award\, as well as the Berlinale’s Audience Award in the Panorama Docume
- ntary section.\n\nD. Smith\, 2023\, United States\, 73 min\, in English\n
- \nhttps://nwfilmforum.org/films/wtf-with-stuff-kokomo-city/\n\nEstimated s
- tart: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WTO/99
 DTSTART;TZID=America/Los_Angeles:20261130T190000
 DTEND;TZID=America/Los_Angeles:20261130T210000
@@ -1901,33 +1937,6 @@ DESCRIPTION:To commemorate World AIDS Day 2026\, Northwest Film Forum is e
  e also remaining campy\, educational\, and ambitious.\n\nJohn Greyson\, Un
  ited States\, 1993\, 97 min\, in English\n\nhttps://nwfilmforum.org/films/
  zero-patience/\n\nEstimated start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zi
-DTSTART;TZID=America/Los_Angeles:20261118T193000
-DTEND;TZID=America/Los_Angeles:20261118T213000
-DTSTAMP:20261119T033000Z
-UID:zi-2026-11-18-19:30:00-08:00
-DESCRIPTION:In Hong Kong\, a young woman haunted by visions of her future 
- self meets a stranger who changes the course of her night—and possibly h
- er life. Kogonada plays with — and returns to — form in this sensitive
-  cinematic poem. Held within a stylish jaunt through the streets of Hong K
- ong\, zi is a film with soul and a wavelike confidence that commits to rec
- ursivity as a mode and central theme. Kogonada regulars Michelle Mao\, Hal
- ey Lu Richardson\, and Jin Ha carefully portray transitory misfits\, grapp
- ling with a clever fusion of existential anxiety\, romantic misgiving\, an
- d personal memory. Somewhere between sci-fi and supernatural\, a deep\, ea
- sy warmth takes root. Kogonada crafts a decidedly contained film\, explori
- ng a pervasive sense of unmooring\, yet cultivating an unrelenting sense o
- f peace. Through the igniting/smoldering embers of relationships lost/form
- ing\, zi is an invitation to surrender to Kogonada’s truly indie world o
- f temporal fragmentation.\n\n“An instant classic.” — Richard Brody\,
-  The New Yorker\n\n“Bold\, beautiful\, and beguiling. Michelle Mao craft
- s what ought to be a breakout performance for the ages.” — Chase Hutch
- inson\, TheWrap\n\nKogonada\, United States & Hong Kong\, 2026\, 99 min\, 
- in English and Cantonese with English subtitles\n\nhttps://nwfilmforum.org
- /films/zi/\n\nEstimated start: 19:50
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 END:VCALENDAR
