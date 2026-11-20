@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261119T161913Z
+LAST-MODIFIED:20261120T151644Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -1064,56 +1064,6 @@ DESCRIPTION:Special introduction by Timothy Hall of The People’s Critic
  e us who we are.\n\nBarry Jenkins\, 2016\, United States\, 111 min\, in En
  glish\n\nhttps://nwfilmforum.org/films/sfcs-10-moonlight/\n\nEstimated sta
  rt: 19:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFCS at 10: The Witch (2016)
-DTSTART;TZID=America/Los_Angeles:20261119T183000
-DTEND;TZID=America/Los_Angeles:20261119T202500
-DTSTAMP:20261120T023000Z
-UID:sfcs-10-witch-2026-11-19-18:30:00-08:00
-DESCRIPTION:Special introduction by Bob Foster of Cinema Crazed\n\nNew Eng
- land\, 1630. Upon threat of banishment by the church\, an English farmer l
- eaves his colonial plantation\, relocating his wife and five children to a
-  remote plot of land on the edge of an ominous forest—within which lurks
-  an unknown evil. Strange and unsettling things begin to happen almost imm
- ediately—animals turn malevolent\, crops fail\, and one child disappears
-  as another becomes seemingly possessed by an evil spirit. With suspicion 
- and paranoia mounting\, family members accuse teenage daughter Thomasin of
-  witchcraft\, charges she adamantly denies. As circumstances grow more tre
- acherous\, each family member’s faith\, loyalty and love become tested i
- n shocking and unforgettable ways.\n\nIn this exquisitely made and terrify
- ing new horror film\, the age-old concepts of witchcraft\, black magic and
-  possession are innovatively brought together to tell the intimate and riv
- eting story of one family’s frightful unraveling in the New England wild
- erness.\n\nRobert Eggers\, 2016\, United States\, 92 min\, in English\n\nh
- ttps://nwfilmforum.org/films/sfcs-10-witch/\n\nEstimated start: 18:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seattle Film Society Presents Locals Only: November 2026
-DTSTART;TZID=America/Los_Angeles:20261119T190000
-DTEND;TZID=America/Los_Angeles:20261119T195500
-DTSTAMP:20261120T030000Z
-UID:seattle-film-society-presents-locals-november-2026-2026-11-19-19:00:00
- -08:00
-DESCRIPTION:PRIVATE PARTY by Nate Fieldson: A lonely woman lists her car f
- or sale in hopes of making some new friends. (10 min) – Intro/Q&A by SFS
-  Programmer Shelby Smout\n\nPUPPET MASTER PLAYTIME by Amy Harris: Found fo
- otage of a public-access children’s show whose sock puppet co-host under
- goes a life-changing procedure at the hands of a crazed surgeon–spurred 
- on by an immobile\, psychic puppet. (8 min) – Intro/Q&A by SFS Programme
- r Patrick McFarland\n\nwhat does it feel like to live inside a pomegranate
- ? by Kamyar Mohsenin: A young woman discovers a giant pomegranate in the m
- iddle of the forest and decides to live inside it. (3 Min) – Into/Q&A by
-  SFS Programmer Gracen Bayer. \n\nThis event is presented in partnership w
- ith the Northwest Film Forum. Join us for a screening and Q&A with drinks 
- to follow at Linda’s Tavern! See ya at the movies!\n\nGraphics Credit: J
- anice Kim\n\nTHE JOURNAL by James Andrews: An American veteran of the Viet
- nam War returns a precious keepsake to the daughter of an enemy soldier\, 
- 50 years later. (12 Min) – Intro/Q&A by SFS Program Director Tommy Meise
- l\n\nhttps://nwfilmforum.org/films/seattle-film-society-presents-locals-no
- vember-2026/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
