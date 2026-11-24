@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261123T160251Z
+LAST-MODIFIED:20261124T160354Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -572,24 +572,6 @@ LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Bola Negra
-DTSTART;TZID=America/Los_Angeles:20261123T180000
-DTEND;TZID=America/Los_Angeles:20261123T210000
-DTSTAMP:20261124T020000Z
-UID:la-bola-negra-2026-11-23-18:00:00-08:00
-DESCRIPTION:From Cannes-winning directors Javier Calvo and Javier Ambrossi
-  — popularly known as Los Javis — La Bola Negra follows three generati
- ons of men across pivotal moments in Spanish history\, bound by pain\, des
- ire\, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain.
-  Sebastián (Guitarricadelafuente) finds connection across enemy lines. An
- d Alberto (Carlos González) uncovers a long-buried family secret — one 
- that finally gives voice to truths the past tried to erase.\n\nJavier Ambr
- ossi & Javier Calvo\, Spain\, 2026\, 159 min\, in English and Spanish with
-  English subtitles\n\nhttps://nwfilmforum.org/films/la-bola-negra/\n\nEsti
- mated start: 18:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bola Negra
 DTSTART;TZID=America/Los_Angeles:20261124T180000
 DTEND;TZID=America/Los_Angeles:20261124T210000
 DTSTAMP:20261125T020000Z
@@ -804,40 +786,6 @@ DESCRIPTION:Having just been released from prison after his relationship w
  Vinegar Syndrome.\n\nHisayasu Satô\, Japan\, 1989\, 59 min\, in Japanese 
  with English subtitles\n\nhttps://nwfilmforum.org/films/muscle/\n\nEstimat
  ed start: 19:50
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Brother's Wedding (1983)
-DTSTART;TZID=America/Los_Angeles:20261123T190000
-DTEND;TZID=America/Los_Angeles:20261123T204500
-DTSTAMP:20261124T030000Z
-UID:my-brothers-wedding-4k-restoration-2026-11-23-19:00:00-08:00
-DESCRIPTION:In this tragicomic work of realism\, Pierce Mundy (Everett Sil
- as) is employed at his parents’ South Central dry cleaners with no prosp
- ects for the future — his childhood buddies are all in prison or dead. P
- ierce’s best friend Soldier (Ronnie Bell) is just getting out of jail. P
- ierce’s brother Wendell (Monte Easter)\, an up-and-coming lawyer\, is bu
- sy planning a wedding to a snooty upper-middle-class black woman named Son
- ia (Burnett’s wife\, Gaye Shannon-Burnett\, who co-produced the film). P
- ierce’s pious\, Bible-touting mother (Jessie Holmes) provides occasional
-  comic relief but also a heartfelt moral backbone to the film\, as she urg
- es Pierce to accept his responsibility to his family.\n\nWhen Soldier is k
- illed in a car accident\, Pierce’s conflicting obligations to family and
-  friends becomes manifested in the choice between his brother’s wedding 
- and his best friend’s funeral— both falling on the same day. The film
- ’s climax has Pierce desperately trying to be two places at once and end
- ing up nowhere.\n\n“The story focuses on a young man who hasn’t made m
- uch of his life as of yet\, and at a crucial point in his life\, he is una
- ble to make the proper decision\, a sober decision\, a moral decision. Thi
- s is a consequence of his not having developed beyond the embryonic stage
- \, socially. He has a distinct romantic notion about life in the ghetto an
- d yet\, in spite of his naive sensitivity\, he is given the task of being 
- his brother’s keeper\; he feels rather than sees\, and as a consequence 
- his capacity for judging things off in the distance is limited. This bring
- s about circumstances that weave themselves into a set of complexities whi
- ch Pierce desperately tries to avoid.” — Charles Burnett\n\nCharles Bu
- rnett\, United States\, 1983\, 81 min\, in English\n\nhttps://nwfilmforum.
- org/films/my-brothers-wedding-4k-restoration/\n\nEstimated start: 19:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
