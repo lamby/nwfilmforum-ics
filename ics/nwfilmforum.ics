@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:🎬 Northwest Film Forum
 X-WR-CALNAME:🎬 Northwest Film Forum
-LAST-MODIFIED:20261125T162908Z
+LAST-MODIFIED:20261126T194248Z
 BEGIN:VEVENT
 SUMMARY:2026 Sundance Film Festival Short Film Tour
 DTSTART;TZID=America/Los_Angeles:20270104T190000
@@ -563,29 +563,11 @@ DTEND;TZID=America/Los_Angeles:20261212T212000
 DTSTAMP:20261212T230000Z
 UID:castration-movie-year-of-the-hyaena-2026-12-12-15:00:00-08:00
 DESCRIPTION:Castration Movie is a multi-part postmodern epic by visionary 
- auteur Louise Weard.\n\n⅗ Year of the Hyaena contains part of one chapte
- r. In Chapter iii. Chastity No Exit Virtue Cuck\, Michaela (Louise Weard) 
- tries to be a good person.\n\nLouise Weard\, Canada\, 2026\, ~360 min\, in
-  English\n\nhttps://nwfilmforum.org/films/castration-movie-year-of-the-hya
- ena/\n\nEstimated start: 15:20
-LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Bola Negra
-DTSTART;TZID=America/Los_Angeles:20261125T180000
-DTEND;TZID=America/Los_Angeles:20261125T210000
-DTSTAMP:20261126T020000Z
-UID:la-bola-negra-2026-11-25-18:00:00-08:00
-DESCRIPTION:From Cannes-winning directors Javier Calvo and Javier Ambrossi
-  — popularly known as Los Javis — La Bola Negra follows three generati
- ons of men across pivotal moments in Spanish history\, bound by pain\, des
- ire\, and love. Carlos (Milo Quifes) longs to belong in a fractured Spain.
-  Sebastián (Guitarricadelafuente) finds connection across enemy lines. An
- d Alberto (Carlos González) uncovers a long-buried family secret — one 
- that finally gives voice to truths the past tried to erase.\n\nJavier Ambr
- ossi & Javier Calvo\, Spain\, 2026\, 159 min\, in English and Spanish with
-  English subtitles\n\nhttps://nwfilmforum.org/films/la-bola-negra/\n\nEsti
- mated start: 18:20
+ auteur Louise Weard. ⅗ Year of the Hyaena contains part of one chapter.
+ \n\nIn Chapter iii. Chastity No Exit Virtue Cuck\, Michaela (Louise Weard)
+  tries to be a good person.\n\nLouise Weard\, Canada\, 2026\, ~360 min\, i
+ n English\n\nhttps://nwfilmforum.org/films/castration-movie-year-of-the-hy
+ aena/\n\nEstimated start: 15:20
 LOCATION:Northwest Film Forum\, 1515 12th Ave\, Seattle\, WA 98122
 END:VEVENT
 BEGIN:VEVENT
